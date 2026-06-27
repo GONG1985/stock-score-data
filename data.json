@@ -1,6 +1,6 @@
 {
   "snapshotDate": "2026-06-27",
-  "updatedAt": "2026-06-27T17:41:49",
+  "updatedAt": "2026-06-27T17:46:41",
   "data": [
     {
       "rank": 1,
@@ -765,6 +765,106 @@
       "gain": -9.48,
       "isWin": false,
       "exitReason": "8%硬止损"
+    },
+    {
+      "date": "2026-06-25",
+      "code": "688048.XSHG",
+      "name": "长光华芯",
+      "buyPrice": 435.99,
+      "outPrice": 400.2,
+      "gain": -8.21,
+      "isWin": false,
+      "exitReason": "跌破8%止损（补录）"
+    },
+    {
+      "date": "2026-06-17",
+      "code": "300790.XSHE",
+      "name": "宇瞳光学",
+      "buyPrice": 28.81,
+      "outPrice": 25.97,
+      "gain": -9.86,
+      "isWin": false,
+      "exitReason": "跌破8%止损（补录）"
+    },
+    {
+      "date": "2026-06-25",
+      "code": "001267.XSHE",
+      "name": "汇绿生态",
+      "buyPrice": 63.06,
+      "outPrice": 56.01,
+      "gain": -11.18,
+      "isWin": false,
+      "exitReason": "跌破8%止损（补录）"
+    },
+    {
+      "date": "2026-06-24",
+      "code": "301607.XSHE",
+      "name": "富特科技",
+      "buyPrice": 47.7,
+      "outPrice": 42.34,
+      "gain": -11.24,
+      "isWin": false,
+      "exitReason": "跌破8%止损（补录）"
+    },
+    {
+      "date": "2026-06-18",
+      "code": "688416.XSHG",
+      "name": "恒烁股份",
+      "buyPrice": 146.6,
+      "outPrice": 129.74,
+      "gain": -11.5,
+      "isWin": false,
+      "exitReason": "跌破8%止损（补录）"
+    },
+    {
+      "date": "2026-06-18",
+      "code": "600259.XSHG",
+      "name": "中稀有色",
+      "buyPrice": 116.28,
+      "outPrice": 99.51,
+      "gain": -14.42,
+      "isWin": false,
+      "exitReason": "跌破8%止损（补录）"
+    },
+    {
+      "date": "2026-06-22",
+      "code": "000831.XSHE",
+      "name": "中国稀土",
+      "buyPrice": 65.61,
+      "outPrice": 54.98,
+      "gain": -16.2,
+      "isWin": false,
+      "exitReason": "跌破8%止损（补录）"
+    },
+    {
+      "date": "2026-06-22",
+      "code": "600301.XSHG",
+      "name": "华锡有色",
+      "buyPrice": 70.95,
+      "outPrice": 59.15,
+      "gain": -16.63,
+      "isWin": false,
+      "exitReason": "跌破8%止损（补录）"
+    },
+    {
+      "date": "2026-06-22",
+      "code": "603993.XSHG",
+      "name": "洛阳钼业",
+      "buyPrice": 21.64,
+      "outPrice": 17.19,
+      "gain": -20.56,
+      "isWin": false,
+      "exitReason": "跌破8%止损（补录）"
+    },
+    {
+      "date": "2026-06-23",
+      "code": "301512.XSHE",
+      "name": "智信精密",
+      "buyPrice": 59.21,
+      "outPrice": 46.22,
+      "gain": -21.94,
+      "isWin": false,
+      "exitReason": "跌破8%止损（补录）"
     }
   ]
 }
