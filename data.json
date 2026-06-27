@@ -292,7 +292,8 @@
       "buyPrice": 180.82,
       "currPrice": 241.72,
       "gain": 33.68,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "300390.XSHE",
@@ -300,7 +301,8 @@
       "buyPrice": 68.28,
       "currPrice": 85.2,
       "gain": 24.78,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301070.XSHE",
@@ -308,7 +310,8 @@
       "buyPrice": 74.85,
       "currPrice": 92.1,
       "gain": 23.05,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "300798.XSHE",
@@ -316,7 +319,8 @@
       "buyPrice": 11.17,
       "currPrice": 13.42,
       "gain": 20.14,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "600176.XSHG",
@@ -324,7 +328,8 @@
       "buyPrice": 27.74,
       "currPrice": 32.99,
       "gain": 18.93,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "300308.XSHE",
@@ -332,7 +337,8 @@
       "buyPrice": 685.77,
       "currPrice": 804.72,
       "gain": 17.35,
-      "isHolding": true
+      "isHolding": true,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "603002.XSHG",
@@ -340,7 +346,8 @@
       "buyPrice": 11.05,
       "currPrice": 12.87,
       "gain": 16.47,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "002281.XSHE",
@@ -348,7 +355,8 @@
       "buyPrice": 92.15,
       "currPrice": 106.5,
       "gain": 15.57,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "600105.XSHG",
@@ -356,7 +364,8 @@
       "buyPrice": 34.55,
       "currPrice": 39.49,
       "gain": 14.3,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "000703.XSHE",
@@ -364,7 +373,8 @@
       "buyPrice": 14.16,
       "currPrice": 16.01,
       "gain": 13.06,
-      "isHolding": true
+      "isHolding": true,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "603124.XSHG",
@@ -372,7 +382,8 @@
       "buyPrice": 110.5,
       "currPrice": 124.54,
       "gain": 12.71,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301526.XSHE",
@@ -380,7 +391,8 @@
       "buyPrice": 12.82,
       "currPrice": 14.39,
       "gain": 12.25,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301086.XSHE",
@@ -388,7 +400,8 @@
       "buyPrice": 147.57,
       "currPrice": 163.82,
       "gain": 11.01,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "300490.XSHE",
@@ -396,7 +409,8 @@
       "buyPrice": 17.71,
       "currPrice": 19.54,
       "gain": 10.33,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "603052.XSHG",
@@ -404,7 +418,8 @@
       "buyPrice": 69.38,
       "currPrice": 75.77,
       "gain": 9.21,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "688150.XSHG",
@@ -412,7 +427,8 @@
       "buyPrice": 45.46,
       "currPrice": 49.36,
       "gain": 8.58,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "300502.XSHE",
@@ -420,7 +436,8 @@
       "buyPrice": 498.94,
       "currPrice": 535.39,
       "gain": 7.31,
-      "isHolding": true
+      "isHolding": true,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "002025.XSHE",
@@ -428,7 +445,8 @@
       "buyPrice": 71.21,
       "currPrice": 76.06,
       "gain": 6.81,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "300438.XSHE",
@@ -436,7 +454,8 @@
       "buyPrice": 64.66,
       "currPrice": 68.9,
       "gain": 6.56,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301511.XSHE",
@@ -444,7 +463,8 @@
       "buyPrice": 44.95,
       "currPrice": 47.75,
       "gain": 6.23,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301317.XSHE",
@@ -452,7 +472,8 @@
       "buyPrice": 59.21,
       "currPrice": 62.74,
       "gain": 5.96,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "300408.XSHE",
@@ -460,7 +481,8 @@
       "buyPrice": 61.41,
       "currPrice": 64.95,
       "gain": 5.76,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "603876.XSHG",
@@ -468,7 +490,8 @@
       "buyPrice": 24.27,
       "currPrice": 25.46,
       "gain": 4.9,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "002353.XSHE",
@@ -476,7 +499,8 @@
       "buyPrice": 111.83,
       "currPrice": 116.24,
       "gain": 3.94,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301377.XSHE",
@@ -484,7 +508,8 @@
       "buyPrice": 210.85,
       "currPrice": 217.82,
       "gain": 3.31,
-      "isHolding": true
+      "isHolding": true,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301358.XSHE",
@@ -492,7 +517,8 @@
       "buyPrice": 82.92,
       "currPrice": 85.57,
       "gain": 3.2,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301191.XSHE",
@@ -500,7 +526,8 @@
       "buyPrice": 145.55,
       "currPrice": 149.64,
       "gain": 2.81,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "688127.XSHG",
@@ -508,7 +535,8 @@
       "buyPrice": 67.3,
       "currPrice": 69.0,
       "gain": 2.53,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "300394.XSHE",
@@ -516,7 +544,8 @@
       "buyPrice": 347.31,
       "currPrice": 354.15,
       "gain": 1.97,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "688312.XSHG",
@@ -524,7 +553,8 @@
       "buyPrice": 60.46,
       "currPrice": 61.55,
       "gain": 1.8,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301186.XSHE",
@@ -532,7 +562,8 @@
       "buyPrice": 65.08,
       "currPrice": 66.25,
       "gain": 1.8,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "603306.XSHG",
@@ -540,7 +571,8 @@
       "buyPrice": 103.18,
       "currPrice": 104.24,
       "gain": 1.03,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "688257.XSHG",
@@ -548,7 +580,8 @@
       "buyPrice": 78.15,
       "currPrice": 78.92,
       "gain": 0.99,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "688072.XSHG",
@@ -556,7 +589,8 @@
       "buyPrice": 399.07,
       "currPrice": 402.3,
       "gain": 0.81,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "605016.XSHG",
@@ -564,7 +598,8 @@
       "buyPrice": 26.58,
       "currPrice": 26.75,
       "gain": 0.64,
-      "isHolding": true
+      "isHolding": true,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "601000.XSHG",
@@ -572,7 +607,8 @@
       "buyPrice": 4.81,
       "currPrice": 4.83,
       "gain": 0.42,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "688143.XSHG",
@@ -580,7 +616,8 @@
       "buyPrice": 64.2,
       "currPrice": 64.42,
       "gain": 0.34,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "688629.XSHG",
@@ -588,7 +625,8 @@
       "buyPrice": 131.85,
       "currPrice": 132.16,
       "gain": 0.24,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "688179.XSHG",
@@ -596,7 +634,8 @@
       "buyPrice": 18.35,
       "currPrice": 18.36,
       "gain": 0.05,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "002290.XSHE",
@@ -604,7 +643,8 @@
       "buyPrice": 71.15,
       "currPrice": 70.5,
       "gain": -0.91,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "300069.XSHE",
@@ -612,7 +652,8 @@
       "buyPrice": 23.85,
       "currPrice": 23.6,
       "gain": -1.05,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301150.XSHE",
@@ -620,7 +661,8 @@
       "buyPrice": 61.78,
       "currPrice": 60.69,
       "gain": -1.76,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "601208.XSHG",
@@ -628,7 +670,8 @@
       "buyPrice": 34.85,
       "currPrice": 34.08,
       "gain": -2.21,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "605376.XSHG",
@@ -636,7 +679,8 @@
       "buyPrice": 112.8,
       "currPrice": 110.21,
       "gain": -2.3,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301606.XSHE",
@@ -644,7 +688,8 @@
       "buyPrice": 76.98,
       "currPrice": 75.13,
       "gain": -2.4,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "300666.XSHE",
@@ -652,7 +697,8 @@
       "buyPrice": 159.54,
       "currPrice": 153.82,
       "gain": -3.59,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "688630.XSHG",
@@ -660,7 +706,8 @@
       "buyPrice": 244.87,
       "currPrice": 235.31,
       "gain": -3.9,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "605117.XSHG",
@@ -668,7 +715,8 @@
       "buyPrice": 145.77,
       "currPrice": 139.78,
       "gain": -4.11,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "603308.XSHG",
@@ -676,7 +724,8 @@
       "buyPrice": 72.09,
       "currPrice": 68.99,
       "gain": -4.3,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "301183.XSHE",
@@ -684,7 +733,8 @@
       "buyPrice": 195.28,
       "currPrice": 186.49,
       "gain": -4.5,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "600482.XSHG",
@@ -692,7 +742,8 @@
       "buyPrice": 40.66,
       "currPrice": 38.77,
       "gain": -4.65,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "002648.XSHE",
@@ -700,7 +751,8 @@
       "buyPrice": 30.1,
       "currPrice": 28.24,
       "gain": -6.18,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "000951.XSHE",
@@ -708,7 +760,8 @@
       "buyPrice": 26.32,
       "currPrice": 24.19,
       "gain": -8.09,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "600869.XSHG",
@@ -716,7 +769,8 @@
       "buyPrice": 15.85,
       "currPrice": 14.36,
       "gain": -9.4,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     },
     {
       "code": "603061.XSHG",
@@ -724,8 +778,10 @@
       "buyPrice": 311.6,
       "currPrice": 246.99,
       "gain": -20.73,
-      "isHolding": false
+      "isHolding": false,
+      "entryDate": "2026-06-27"
     }
   ],
-  "exited": []
+  "exited": [],
+  "snapshotDate": "2026-06-27"
 }
