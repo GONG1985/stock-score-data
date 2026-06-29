@@ -1,6 +1,6 @@
 {
   "snapshotDate": "2026-06-29",
-  "updatedAt": "2026-06-30T00:04:14",
+  "updatedAt": "2026-06-30T00:04:22",
   "data": [
     {
       "rank": 1,
@@ -88,6 +88,34 @@
     },
     {
       "rank": 4,
+      "code": "688019.XSHG",
+      "name": "安集科技",
+      "score": 69,
+      "price": 300.54,
+      "indName": "电子化学品II",
+      "star": "★★★",
+      "volumeRatio": 1.28,
+      "deductedYoyGrowth": 23.01,
+      "realRoe": 5.11,
+      "marketCap": 624.4,
+      "peTtm": 75.9,
+      "deviationRate": "14.53%",
+      "stockMomentum": 86.4,
+      "indMomentum": 95.9,
+      "fund1d": "+2.0万",
+      "fund5d": "+0.0万",
+      "fund10d": "-0.0万",
+      "dailyChange": 9.49,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 5,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 5,
       "code": "688727.XSHG",
       "name": "恒坤新材",
       "score": 64,
@@ -115,7 +143,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "code": "600520.XSHG",
       "name": "三佳科技",
       "score": 59,
@@ -176,31 +204,11 @@
       "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
     },
     {
-      "code": "688019.XSHG",
-      "name": "安集科技",
-      "buyPrice": 275.0,
-      "currPrice": 300.54,
-      "gain": 9.29,
-      "isHolding": false,
-      "entryDate": "2026-06-26",
-      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
-    },
-    {
       "code": "300236.XSHE",
       "name": "上海新阳",
       "buyPrice": 117.24,
       "currPrice": 126.97,
       "gain": 8.3,
-      "isHolding": false,
-      "entryDate": "2026-06-26",
-      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
-    },
-    {
-      "code": "688392.XSHG",
-      "name": "骄成超声",
-      "buyPrice": 198.16,
-      "currPrice": 214.4,
-      "gain": 8.2,
       "isHolding": false,
       "entryDate": "2026-06-26",
       "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
@@ -241,6 +249,26 @@
       "buyPrice": 58.69,
       "currPrice": 56.01,
       "gain": -4.57,
+      "isHolding": false,
+      "entryDate": "2026-06-26",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "688502.XSHG",
+      "name": "茂莱光学",
+      "buyPrice": 606.0,
+      "currPrice": 577.86,
+      "gain": -4.64,
+      "isHolding": false,
+      "entryDate": "2026-06-26",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "600184.XSHG",
+      "name": "光电股份",
+      "buyPrice": 30.41,
+      "currPrice": 28.81,
+      "gain": -5.26,
       "isHolding": false,
       "entryDate": "2026-06-26",
       "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
