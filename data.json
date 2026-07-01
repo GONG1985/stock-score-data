@@ -1,19 +1,300 @@
 {
   "snapshotDate": "2026-04-08",
-  "updatedAt": "2026-07-01T16:25:14",
+  "updatedAt": "2026-07-01T16:25:36",
   "pushTime": "14:35",
-  "data": [],
-  "shIdx": 3966.43,
-  "shChg": 1.96,
-  "szIdx": 13913.2,
-  "szChg": 3.83,
-  "cybIdx": 3311.76,
-  "cybChg": 4.78,
-  "kcbIdx": 1336.86,
-  "kcbChg": 4.93,
-  "hs300": 4562.94,
-  "hsChg": 2.75,
-  "marketStatus": "[🚨绝对空头阴跌 / 红灯]",
+  "data": [
+    {
+      "rank": 1,
+      "code": "300502.XSHE",
+      "name": "新易盛",
+      "score": 79,
+      "price": 498.94,
+      "indName": "通信设备II",
+      "star": "★★★★",
+      "volumeRatio": 1.45,
+      "deductedYoyGrowth": 170.71,
+      "realRoe": 19.75,
+      "marketCap": 4559.5,
+      "peTtm": 60.6,
+      "deviationRate": "9.71%",
+      "stockMomentum": 83.0,
+      "indMomentum": 92.6,
+      "fund1d": "+12.0万",
+      "fund5d": "+13.0万",
+      "fund10d": "-31.0万",
+      "dailyChange": 52.48,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 2,
+      "code": "603002.XSHG",
+      "name": "宏昌电子",
+      "score": 69,
+      "price": 11.05,
+      "indName": "电子化学品II",
+      "star": "🔥[日周共振爆点]★★★★★",
+      "volumeRatio": 2.77,
+      "deductedYoyGrowth": -21.84,
+      "realRoe": 0.31,
+      "marketCap": 121.0,
+      "peTtm": 315.1,
+      "deviationRate": "-2.06%",
+      "stockMomentum": 83.8,
+      "indMomentum": 76.2,
+      "fund1d": "+0.0万",
+      "fund5d": "+1.0万",
+      "fund10d": "+2.0万",
+      "dailyChange": 3.66,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 10,
+        "energy": 5,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 3,
+      "code": "300666.XSHE",
+      "name": "江丰电子",
+      "score": 69,
+      "price": 159.54,
+      "indName": "半导体II",
+      "star": "★★★",
+      "volumeRatio": 1.48,
+      "deductedYoyGrowth": 1.9,
+      "realRoe": 2.01,
+      "marketCap": 396.7,
+      "peTtm": 82.4,
+      "deviationRate": "0.7%",
+      "stockMomentum": 88.3,
+      "indMomentum": 65.6,
+      "fund1d": "+1.0万",
+      "fund5d": "-1.0万",
+      "fund10d": "+2.0万",
+      "dailyChange": 6.92,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 5,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 4,
+      "code": "688143.XSHG",
+      "name": "长盈通",
+      "score": 69,
+      "price": 64.2,
+      "indName": "通信设备II",
+      "star": "★★★",
+      "volumeRatio": 0.97,
+      "deductedYoyGrowth": -130.92,
+      "realRoe": -0.54,
+      "marketCap": 78.9,
+      "peTtm": 339.6,
+      "deviationRate": "6.23%",
+      "stockMomentum": 87.3,
+      "indMomentum": 92.6,
+      "fund1d": "+1.0万",
+      "fund5d": "+0.0万",
+      "fund10d": "-1.0万",
+      "dailyChange": 4.75,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 5,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 5,
+      "code": "688312.XSHG",
+      "name": "燕麦科技",
+      "score": 64,
+      "price": 56.1,
+      "indName": "专用设备II",
+      "star": "★★★★",
+      "volumeRatio": 1.33,
+      "deductedYoyGrowth": 51.74,
+      "realRoe": 2.66,
+      "marketCap": 76.6,
+      "peTtm": 55.7,
+      "deviationRate": "3.49%",
+      "stockMomentum": 91.9,
+      "indMomentum": 67.2,
+      "fund1d": "+0.0万",
+      "fund5d": "+1.0万",
+      "fund10d": "+1.0万",
+      "dailyChange": 7.51,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 6,
+      "code": "688372.XSHG",
+      "name": "伟测科技",
+      "score": 64,
+      "price": 152.4,
+      "indName": "半导体II",
+      "star": "★★★★",
+      "volumeRatio": 1.13,
+      "deductedYoyGrowth": 52.19,
+      "realRoe": 3.46,
+      "marketCap": 237.2,
+      "peTtm": 79.1,
+      "deviationRate": "1.37%",
+      "stockMomentum": 92.9,
+      "indMomentum": 65.6,
+      "fund1d": "+1.0万",
+      "fund5d": "+1.0万",
+      "fund10d": "+1.0万",
+      "dailyChange": 8.15,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 7,
+      "code": "688702.XSHG",
+      "name": "盛科通信",
+      "score": 64,
+      "price": 216.88,
+      "indName": "半导体II",
+      "star": "★★★★",
+      "volumeRatio": 1.41,
+      "deductedYoyGrowth": -2108.86,
+      "realRoe": -6.92,
+      "marketCap": 786.0,
+      "peTtm": -524.5,
+      "deviationRate": "0.46%",
+      "stockMomentum": 93.6,
+      "indMomentum": 65.6,
+      "fund1d": "+1.0万",
+      "fund5d": "+3.0万",
+      "fund10d": "+4.0万",
+      "dailyChange": 13.14,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 8,
+      "code": "002384.XSHE",
+      "name": "东山精密",
+      "score": 62,
+      "price": 119.91,
+      "indName": "元件II",
+      "star": "★★★★",
+      "volumeRatio": 0.41,
+      "deductedYoyGrowth": 830.25,
+      "realRoe": 0.76,
+      "marketCap": 1996.6,
+      "peTtm": 160.8,
+      "deviationRate": "7.15%",
+      "stockMomentum": 91.2,
+      "indMomentum": 77.0,
+      "fund1d": "+6.0万",
+      "fund5d": "+10.0万",
+      "fund10d": "+6.0万",
+      "dailyChange": 10.0,
+      "scoreDetail": {
+        "trend": 18,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 9,
+      "code": "001389.XSHE",
+      "name": "广合科技",
+      "score": 61,
+      "price": 125.62,
+      "indName": "元件II",
+      "star": "★★★",
+      "volumeRatio": 1.07,
+      "deductedYoyGrowth": 59.02,
+      "realRoe": 7.67,
+      "marketCap": 539.5,
+      "peTtm": 53.1,
+      "deviationRate": "3.99%",
+      "stockMomentum": 89.5,
+      "indMomentum": 77.0,
+      "fund1d": "+1.0万",
+      "fund5d": "+1.0万",
+      "fund10d": "+4.0万",
+      "dailyChange": 10.0,
+      "scoreDetail": {
+        "trend": 27,
+        "cycle": 0,
+        "energy": 5,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 10,
+      "code": "688127.XSHG",
+      "name": "蓝特光学",
+      "score": 60,
+      "price": 65.78,
+      "indName": "光学光电子II",
+      "star": "★★★★",
+      "volumeRatio": 1.18,
+      "deductedYoyGrowth": 135.61,
+      "realRoe": 6.59,
+      "marketCap": 252.6,
+      "peTtm": 65.0,
+      "deviationRate": "6.02%",
+      "stockMomentum": 94.4,
+      "indMomentum": 84.4,
+      "fund1d": "+0.0万",
+      "fund5d": "+1.0万",
+      "fund10d": "-1.0万",
+      "dailyChange": 6.05,
+      "scoreDetail": {
+        "trend": 16,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 10,
+        "roe": 5
+      }
+    }
+  ],
+  "shIdx": 3986.09,
+  "shChg": 2.47,
+  "szIdx": 14011.83,
+  "szChg": 4.56,
+  "cybIdx": 3340.12,
+  "cybChg": 5.67,
+  "kcbIdx": 1348.56,
+  "kcbChg": 5.85,
+  "hs300": 4587.1,
+  "hsChg": 3.3,
+  "marketStatus": "[🔥强势多头共振浪 / 绿灯]",
   "poolAudit": [
     {
       "code": "301526.XSHE",
@@ -44,16 +325,6 @@
       "isHolding": false,
       "entryDate": "2026-04-21",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002281.XSHE",
-      "name": "光迅科技",
-      "buyPrice": 92.15,
-      "currPrice": 256.01,
-      "gain": 177.82,
-      "isHolding": false,
-      "entryDate": "2026-04-07",
-      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
     },
     {
       "code": "688530.XSHG",
@@ -113,16 +384,6 @@
       "gain": 160.6,
       "isHolding": false,
       "entryDate": "2026-04-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "301377.XSHE",
-      "name": "鼎泰高科",
-      "buyPrice": 210.85,
-      "currPrice": 546.0,
-      "gain": 158.95,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
@@ -366,16 +627,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
-      "code": "300620.XSHE",
-      "name": "光库科技",
-      "buyPrice": 200.87,
-      "currPrice": 378.2,
-      "gain": 88.28,
-      "isHolding": false,
-      "entryDate": "2026-04-02",
-      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
-    },
-    {
       "code": "600378.XSHG",
       "name": "昊华科技",
       "buyPrice": 40.16,
@@ -404,16 +655,6 @@
       "isHolding": false,
       "entryDate": "2026-05-21",
       "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
-    },
-    {
-      "code": "300308.XSHE",
-      "name": "中际旭创",
-      "buyPrice": 685.77,
-      "currPrice": 1272.29,
-      "gain": 85.53,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
       "code": "688017.XSHG",
@@ -494,16 +735,6 @@
       "isHolding": false,
       "entryDate": "2026-04-22",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "603124.XSHG",
-      "name": "江南新材",
-      "buyPrice": 110.5,
-      "currPrice": 186.5,
-      "gain": 68.78,
-      "isHolding": false,
-      "entryDate": "2026-04-07",
-      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
     },
     {
       "code": "002080.XSHE",
@@ -636,16 +867,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
-      "code": "688150.XSHG",
-      "name": "莱特光电",
-      "buyPrice": 45.46,
-      "currPrice": 68.86,
-      "gain": 51.47,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
       "code": "688179.XSHG",
       "name": "阿拉丁",
       "buyPrice": 18.35,
@@ -663,16 +884,6 @@
       "gain": 48.79,
       "isHolding": false,
       "entryDate": "2026-04-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688629.XSHG",
-      "name": "华丰科技",
-      "buyPrice": 126.44,
-      "currPrice": 187.01,
-      "gain": 47.9,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
@@ -783,16 +994,6 @@
       "gain": 36.16,
       "isHolding": false,
       "entryDate": "2026-04-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002353.XSHE",
-      "name": "杰瑞股份",
-      "buyPrice": 111.83,
-      "currPrice": 152.15,
-      "gain": 36.05,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
@@ -936,16 +1137,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
-      "code": "300069.XSHE",
-      "name": "金利华电",
-      "buyPrice": 24.86,
-      "currPrice": 31.72,
-      "gain": 27.59,
-      "isHolding": false,
-      "entryDate": "2026-04-07",
-      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
-    },
-    {
       "code": "301392.XSHE",
       "name": "汇成真空",
       "buyPrice": 228.33,
@@ -1083,16 +1274,6 @@
       "gain": 15.96,
       "isHolding": false,
       "entryDate": "2026-06-04",
-      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
-    },
-    {
-      "code": "301070.XSHE",
-      "name": "开勒股份",
-      "buyPrice": 74.85,
-      "currPrice": 86.69,
-      "gain": 15.82,
-      "isHolding": false,
-      "entryDate": "2026-04-07",
       "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
     },
     {
@@ -1574,6 +1755,286 @@
       "isHolding": false,
       "entryDate": "2026-06-18",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "301070.XSHE",
+      "name": "开勒股份",
+      "buyPrice": 74.33,
+      "currPrice": 91.2,
+      "gain": 22.7,
+      "isHolding": false,
+      "entryDate": "2026-04-07",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "300548.XSHE",
+      "name": "长芯博创",
+      "buyPrice": 168.05,
+      "currPrice": 203.78,
+      "gain": 21.26,
+      "isHolding": false,
+      "entryDate": "2026-04-03",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "300620.XSHE",
+      "name": "光库科技",
+      "buyPrice": 203.18,
+      "currPrice": 222.43,
+      "gain": 9.47,
+      "isHolding": false,
+      "entryDate": "2026-04-02",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "301191.XSHE",
+      "name": "菲菱科思",
+      "buyPrice": 137.7,
+      "currPrice": 150.61,
+      "gain": 9.38,
+      "isHolding": false,
+      "entryDate": "2026-04-01",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "688167.XSHG",
+      "name": "炬光科技",
+      "buyPrice": 363.33,
+      "currPrice": 391.88,
+      "gain": 7.86,
+      "isHolding": false,
+      "entryDate": "2026-04-01",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "002281.XSHE",
+      "name": "光迅科技",
+      "buyPrice": 92.46,
+      "currPrice": 97.45,
+      "gain": 5.4,
+      "isHolding": false,
+      "entryDate": "2026-04-07",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "600988.XSHG",
+      "name": "赤峰黄金",
+      "buyPrice": 45.07,
+      "currPrice": 47.13,
+      "gain": 4.57,
+      "isHolding": false,
+      "entryDate": "2026-04-01",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "000703.XSHE",
+      "name": "恒逸石化",
+      "buyPrice": 14.16,
+      "currPrice": 14.78,
+      "gain": 4.38,
+      "isHolding": false,
+      "entryDate": "2026-04-07",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "603124.XSHG",
+      "name": "江南新材",
+      "buyPrice": 111.6,
+      "currPrice": 114.27,
+      "gain": 2.39,
+      "isHolding": false,
+      "entryDate": "2026-04-07",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "300308.XSHE",
+      "name": "中际旭创",
+      "buyPrice": 669.78,
+      "currPrice": 685.77,
+      "gain": 2.39,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "002025.XSHE",
+      "name": "航天电器",
+      "buyPrice": 69.71,
+      "currPrice": 71.21,
+      "gain": 2.15,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "000951.XSHE",
+      "name": "中国重汽",
+      "buyPrice": 23.83,
+      "currPrice": 24.3,
+      "gain": 1.97,
+      "isHolding": false,
+      "entryDate": "2026-04-01",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "688629.XSHG",
+      "name": "华丰科技",
+      "buyPrice": 124.3,
+      "currPrice": 126.44,
+      "gain": 1.72,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "600105.XSHG",
+      "name": "永鼎股份",
+      "buyPrice": 32.77,
+      "currPrice": 33.23,
+      "gain": 1.4,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "688630.XSHG",
+      "name": "芯碁微装",
+      "buyPrice": 236.98,
+      "currPrice": 240.0,
+      "gain": 1.27,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "301377.XSHE",
+      "name": "鼎泰高科",
+      "buyPrice": 208.41,
+      "currPrice": 210.85,
+      "gain": 1.17,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "688205.XSHG",
+      "name": "德科立",
+      "buyPrice": 245.08,
+      "currPrice": 247.0,
+      "gain": 0.78,
+      "isHolding": false,
+      "entryDate": "2026-04-03",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "301183.XSHE",
+      "name": "东田微",
+      "buyPrice": 191.25,
+      "currPrice": 191.52,
+      "gain": 0.14,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "605016.XSHG",
+      "name": "百龙创园",
+      "buyPrice": 26.58,
+      "currPrice": 26.58,
+      "gain": 0.0,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "002353.XSHE",
+      "name": "杰瑞股份",
+      "buyPrice": 111.83,
+      "currPrice": 111.83,
+      "gain": 0.0,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "301216.XSHE",
+      "name": "万凯新材",
+      "buyPrice": 28.26,
+      "currPrice": 28.22,
+      "gain": -0.14,
+      "isHolding": false,
+      "entryDate": "2026-04-03",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "688150.XSHG",
+      "name": "莱特光电",
+      "buyPrice": 45.71,
+      "currPrice": 45.46,
+      "gain": -0.55,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "601000.XSHG",
+      "name": "唐山港",
+      "buyPrice": 4.74,
+      "currPrice": 4.66,
+      "gain": -1.69,
+      "isHolding": false,
+      "entryDate": "2026-04-01",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "600066.XSHG",
+      "name": "宇通客车",
+      "buyPrice": 37.11,
+      "currPrice": 36.46,
+      "gain": -1.75,
+      "isHolding": false,
+      "entryDate": "2026-04-01",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "300069.XSHE",
+      "name": "金利华电",
+      "buyPrice": 23.88,
+      "currPrice": 23.41,
+      "gain": -1.97,
+      "isHolding": false,
+      "entryDate": "2026-04-07",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "600502.XSHG",
+      "name": "安徽建工",
+      "buyPrice": 5.71,
+      "currPrice": 5.5,
+      "gain": -3.68,
+      "isHolding": false,
+      "entryDate": "2026-04-01",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "600428.XSHG",
+      "name": "中远海特",
+      "buyPrice": 9.72,
+      "currPrice": 9.36,
+      "gain": -3.7,
+      "isHolding": false,
+      "entryDate": "2026-04-02",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
+    },
+    {
+      "code": "603727.XSHG",
+      "name": "博迈科",
+      "buyPrice": 21.16,
+      "currPrice": 20.08,
+      "gain": -5.1,
+      "isHolding": false,
+      "entryDate": "2026-04-02",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
     }
   ],
   "exited": [
@@ -1582,11 +2043,12 @@
       "entryDate": "2026-04-01",
       "code": "603685.XSHG",
       "name": "晨丰科技",
-      "buyPrice": 31.98,
+      "buyPrice": 31.89,
       "outPrice": 28.44,
-      "gain": -11.07,
+      "gain": -10.82,
       "isWin": false,
-      "exitReason": "8%硬止损（监控池）"
+      "exitReason": "8%硬止损（监控池）",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
     },
     {
       "date": "2026-04-14",
@@ -3974,6 +4436,18 @@
       "gain": -8.05,
       "isWin": false,
       "exitReason": "8%硬止损（监控池）"
+    },
+    {
+      "date": "2026-04-07",
+      "entryDate": "2026-04-02",
+      "code": "000070.XSHE",
+      "name": "特发信息",
+      "buyPrice": 19.84,
+      "outPrice": 18.1,
+      "gain": -8.77,
+      "isWin": false,
+      "exitReason": "8%硬止损（监控池）",
+      "mktAtEntry": "[🚨绝对空头阴跌 / 红灯]"
     }
   ]
 }
