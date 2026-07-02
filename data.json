@@ -1,19 +1,300 @@
 {
-  "snapshotDate": "2026-06-29",
-  "updatedAt": "2026-07-02T15:17:32",
+  "snapshotDate": "2026-06-30",
+  "updatedAt": "2026-07-02T15:18:20",
   "pushTime": "14:35",
-  "data": [],
-  "shIdx": 4060.2,
-  "shChg": 0.82,
-  "szIdx": 15746.98,
-  "szChg": -0.22,
-  "cybIdx": 4196.15,
-  "cybChg": 0.05,
-  "kcbIdx": 2101.16,
-  "kcbChg": 3.39,
-  "hs300": 4904.4,
-  "hsChg": 0.74,
-  "marketStatus": "[🚨绝对空头阴跌 / 红灯]",
+  "data": [
+    {
+      "rank": 1,
+      "code": "001389.XSHE",
+      "name": "广合科技",
+      "score": 79,
+      "price": 233.4,
+      "indName": "元件II",
+      "star": "★★★★",
+      "volumeRatio": 0.89,
+      "deductedYoyGrowth": 63.31,
+      "realRoe": 7.67,
+      "marketCap": 1042.0,
+      "peTtm": 89.2,
+      "deviationRate": "11.42%",
+      "stockMomentum": 94.6,
+      "indMomentum": 97.5,
+      "fund1d": "+2.0万",
+      "fund5d": "+5.0万",
+      "fund10d": "+4.0万",
+      "dailyChange": 5.86,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 15,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 2,
+      "code": "300480.XSHE",
+      "name": "光力科技",
+      "score": 79,
+      "price": 42.3,
+      "indName": "专用设备II",
+      "star": "★★★★",
+      "volumeRatio": 1.08,
+      "deductedYoyGrowth": 72.5,
+      "realRoe": 0.29,
+      "marketCap": 146.6,
+      "peTtm": 271.7,
+      "deviationRate": "8.8%",
+      "stockMomentum": 92.5,
+      "indMomentum": 83.6,
+      "fund1d": "+1.0万",
+      "fund5d": "-1.0万",
+      "fund10d": "-3.0万",
+      "dailyChange": 6.82,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 15,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 3,
+      "code": "688028.XSHG",
+      "name": "沃尔德",
+      "score": 79,
+      "price": 156.03,
+      "indName": "通用机械II",
+      "star": "★★★★",
+      "volumeRatio": 0.7,
+      "deductedYoyGrowth": 36.1,
+      "realRoe": 1.17,
+      "marketCap": 217.7,
+      "peTtm": 214.0,
+      "deviationRate": "14.38%",
+      "stockMomentum": 93.6,
+      "indMomentum": 87.7,
+      "fund1d": "+0.0万",
+      "fund5d": "-2.0万",
+      "fund10d": "-1.0万",
+      "dailyChange": 8.17,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 15,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 4,
+      "code": "688702.XSHG",
+      "name": "盛科通信",
+      "score": 79,
+      "price": 381.15,
+      "indName": "半导体II",
+      "star": "★★★★",
+      "volumeRatio": 1.11,
+      "deductedYoyGrowth": -12.05,
+      "realRoe": -6.92,
+      "marketCap": 1435.5,
+      "peTtm": -945.8,
+      "deviationRate": "14.72%",
+      "stockMomentum": 93.8,
+      "indMomentum": 95.1,
+      "fund1d": "+2.0万",
+      "fund5d": "+9.0万",
+      "fund10d": "+12.0万",
+      "dailyChange": 8.87,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 15,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 5,
+      "code": "603019.XSHG",
+      "name": "中科曙光",
+      "score": 76,
+      "price": 107.17,
+      "indName": "计算机设备II",
+      "star": "★★★★",
+      "volumeRatio": 1.37,
+      "deductedYoyGrowth": 13.35,
+      "realRoe": 5.59,
+      "marketCap": 1426.2,
+      "peTtm": 64.3,
+      "deviationRate": "9.6%",
+      "stockMomentum": 72.5,
+      "indMomentum": 77.0,
+      "fund1d": "+17.0万",
+      "fund5d": "+34.0万",
+      "fund10d": "+31.0万",
+      "dailyChange": 9.94,
+      "scoreDetail": {
+        "trend": 22,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 6,
+      "code": "688248.XSHG",
+      "name": "南网科技",
+      "score": 72,
+      "price": 69.19,
+      "indName": "电网设备II",
+      "star": "★★★★",
+      "volumeRatio": 0.75,
+      "deductedYoyGrowth": -13.24,
+      "realRoe": 4.15,
+      "marketCap": 367.2,
+      "peTtm": 88.9,
+      "deviationRate": "13.78%",
+      "stockMomentum": 80.5,
+      "indMomentum": 84.4,
+      "fund1d": "+0.0万",
+      "fund5d": "-0.0万",
+      "fund10d": "-0.0万",
+      "dailyChange": 6.4,
+      "scoreDetail": {
+        "trend": 17,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 7,
+      "code": "688372.XSHG",
+      "name": "伟测科技",
+      "score": 69,
+      "price": 185.48,
+      "indName": "半导体II",
+      "star": "★★★",
+      "volumeRatio": 1.21,
+      "deductedYoyGrowth": 173.39,
+      "realRoe": 3.46,
+      "marketCap": 284.7,
+      "peTtm": 81.8,
+      "deviationRate": "7.27%",
+      "stockMomentum": 85.4,
+      "indMomentum": 95.1,
+      "fund1d": "+1.0万",
+      "fund5d": "+1.0万",
+      "fund10d": "-2.0万",
+      "dailyChange": 9.52,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 5,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 8,
+      "code": "688002.XSHG",
+      "name": "睿创微纳",
+      "score": 69,
+      "price": 153.5,
+      "indName": "军工电子II",
+      "star": "★★★",
+      "volumeRatio": 1.17,
+      "deductedYoyGrowth": 306.64,
+      "realRoe": 6.49,
+      "marketCap": 676.6,
+      "peTtm": 46.4,
+      "deviationRate": "9.32%",
+      "stockMomentum": 82.3,
+      "indMomentum": 60.7,
+      "fund1d": "+1.0万",
+      "fund5d": "-1.0万",
+      "fund10d": "-2.0万",
+      "dailyChange": 6.61,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 5,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 9,
+      "code": "688802.XSHG",
+      "name": "沐曦股份",
+      "score": 64,
+      "price": 826.0,
+      "indName": "半导体II",
+      "star": "★★",
+      "volumeRatio": 0.99,
+      "deductedYoyGrowth": 57.49,
+      "realRoe": -3.91,
+      "marketCap": 3175.0,
+      "peTtm": -484.2,
+      "deviationRate": "6.54%",
+      "stockMomentum": 75.5,
+      "indMomentum": 95.1,
+      "fund1d": "+2.0万",
+      "fund5d": "+2.0万",
+      "fund10d": "+4.0万",
+      "dailyChange": 4.09,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 0,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 10,
+      "code": "002129.XSHE",
+      "name": "TCL中环",
+      "score": 64,
+      "price": 12.0,
+      "indName": "光伏设备II",
+      "star": "★★",
+      "volumeRatio": 1.17,
+      "deductedYoyGrowth": 19.06,
+      "realRoe": -14.78,
+      "marketCap": 474.3,
+      "peTtm": -5.3,
+      "deviationRate": "9.75%",
+      "stockMomentum": 76.4,
+      "indMomentum": 78.7,
+      "fund1d": "+1.0万",
+      "fund5d": "+13.0万",
+      "fund10d": "+8.0万",
+      "dailyChange": 2.3,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 0,
+        "performance": 10,
+        "roe": 5
+      }
+    }
+  ],
+  "shIdx": 4087.72,
+  "shChg": 0.34,
+  "szIdx": 16201.83,
+  "szChg": 2.46,
+  "cybIdx": 4344.89,
+  "cybChg": 3.04,
+  "kcbIdx": 2202.16,
+  "kcbChg": 3.58,
+  "hs300": 4975.81,
+  "hsChg": 0.99,
+  "marketStatus": "[⚠️短线拉锯震荡 / 黄灯]",
   "poolAudit": [
     {
       "code": "688183.XSHG",
@@ -2116,66 +2397,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
-      "code": "301392.XSHE",
-      "name": "汇成真空",
-      "buyPrice": 228.33,
-      "currPrice": 287.93,
-      "gain": 26.1,
-      "isHolding": false,
-      "entryDate": "2026-06-25",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688727.XSHG",
-      "name": "恒坤新材",
-      "buyPrice": 62.85,
-      "currPrice": 74.86,
-      "gain": 19.11,
-      "isHolding": false,
-      "entryDate": "2026-06-25",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "603163.XSHG",
-      "name": "圣晖集成",
-      "buyPrice": 123.69,
-      "currPrice": 145.09,
-      "gain": 17.3,
-      "isHolding": false,
-      "entryDate": "2026-06-25",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688401.XSHG",
-      "name": "路维光电",
-      "buyPrice": 89.39,
-      "currPrice": 95.87,
-      "gain": 7.25,
-      "isHolding": false,
-      "entryDate": "2026-06-25",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300136.XSHE",
-      "name": "信维通信",
-      "buyPrice": 116.13,
-      "currPrice": 119.0,
-      "gain": 2.47,
-      "isHolding": false,
-      "entryDate": "2026-06-25",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "603690.XSHG",
-      "name": "至纯科技",
-      "buyPrice": 34.57,
-      "currPrice": 35.05,
-      "gain": 1.39,
-      "isHolding": false,
-      "entryDate": "2026-06-25",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
       "code": "300480.XSHE",
       "name": "光力科技",
       "buyPrice": 42.3,
@@ -2704,16 +2925,6 @@
       "isHolding": false,
       "entryDate": "2026-04-08",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "688521.XSHG",
-      "name": "芯原股份",
-      "buyPrice": 298.57,
-      "currPrice": 295.48,
-      "gain": -1.03,
-      "isHolding": false,
-      "entryDate": "2026-05-19",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
     },
     {
       "code": "301216.XSHE",
@@ -3276,16 +3487,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
-      "code": "301418.XSHE",
-      "name": "协昌科技",
-      "buyPrice": 50.48,
-      "currPrice": 48.81,
-      "gain": -3.31,
-      "isHolding": false,
-      "entryDate": "2026-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
       "code": "688167.XSHG",
       "name": "炬光科技",
       "buyPrice": 417.0,
@@ -3416,1056 +3617,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
-      "code": "688143.XSHG",
-      "name": "长盈通",
-      "buyPrice": 64.2,
-      "currPrice": 245.25,
-      "gain": 282.01,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "301526.XSHE",
-      "name": "国际复材",
-      "buyPrice": 12.82,
-      "currPrice": 48.18,
-      "gain": 275.82,
-      "isHolding": false,
-      "entryDate": "2026-04-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "301511.XSHE",
-      "name": "德福科技",
-      "buyPrice": 44.95,
-      "currPrice": 153.8,
-      "gain": 242.16,
-      "isHolding": false,
-      "entryDate": "2026-04-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "603186.XSHG",
-      "name": "华正新材",
-      "buyPrice": 81.02,
-      "currPrice": 263.41,
-      "gain": 225.12,
-      "isHolding": false,
-      "entryDate": "2026-04-29",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "301377.XSHE",
-      "name": "鼎泰高科",
-      "buyPrice": 210.85,
-      "currPrice": 640.33,
-      "gain": 203.69,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "000811.XSHE",
-      "name": "冰轮环境",
-      "buyPrice": 20.18,
-      "currPrice": 53.52,
-      "gain": 165.21,
-      "isHolding": false,
-      "entryDate": "2026-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300285.XSHE",
-      "name": "国瓷材料",
-      "buyPrice": 38.71,
-      "currPrice": 99.51,
-      "gain": 157.07,
-      "isHolding": false,
-      "entryDate": "2026-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300408.XSHE",
-      "name": "三环集团",
-      "buyPrice": 64.6,
-      "currPrice": 164.0,
-      "gain": 153.87,
-      "isHolding": false,
-      "entryDate": "2026-04-14",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688300.XSHG",
-      "name": "联瑞新材",
-      "buyPrice": 110.41,
-      "currPrice": 270.7,
-      "gain": 145.18,
-      "isHolding": false,
-      "entryDate": "2026-05-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "600176.XSHG",
-      "name": "中国巨石",
-      "buyPrice": 29.36,
-      "currPrice": 71.16,
-      "gain": 142.37,
-      "isHolding": false,
-      "entryDate": "2026-04-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "300835.XSHE",
-      "name": "龙磁科技",
-      "buyPrice": 104.63,
-      "currPrice": 251.87,
-      "gain": 140.72,
-      "isHolding": false,
-      "entryDate": "2026-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688766.XSHG",
-      "name": "普冉股份",
-      "buyPrice": 318.27,
-      "currPrice": 757.98,
-      "gain": 138.16,
-      "isHolding": false,
-      "entryDate": "2026-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688630.XSHG",
-      "name": "芯碁微装",
-      "buyPrice": 244.87,
-      "currPrice": 560.08,
-      "gain": 128.73,
-      "isHolding": false,
-      "entryDate": "2026-04-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "601208.XSHG",
-      "name": "东材科技",
-      "buyPrice": 34.85,
-      "currPrice": 79.14,
-      "gain": 127.09,
-      "isHolding": false,
-      "entryDate": "2026-04-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "603002.XSHG",
-      "name": "宏昌电子",
-      "buyPrice": 11.05,
-      "currPrice": 24.63,
-      "gain": 122.9,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "605376.XSHG",
-      "name": "博迁新材",
-      "buyPrice": 112.8,
-      "currPrice": 246.84,
-      "gain": 118.83,
-      "isHolding": false,
-      "entryDate": "2026-04-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "600869.XSHG",
-      "name": "远东股份",
-      "buyPrice": 17.17,
-      "currPrice": 37.45,
-      "gain": 118.11,
-      "isHolding": false,
-      "entryDate": "2026-04-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "688627.XSHG",
-      "name": "精智达",
-      "buyPrice": 297.52,
-      "currPrice": 639.46,
-      "gain": 114.93,
-      "isHolding": false,
-      "entryDate": "2026-04-30",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "600105.XSHG",
-      "name": "永鼎股份",
-      "buyPrice": 34.55,
-      "currPrice": 73.12,
-      "gain": 111.64,
-      "isHolding": false,
-      "entryDate": "2026-04-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "600522.XSHG",
-      "name": "中天科技",
-      "buyPrice": 32.22,
-      "currPrice": 67.93,
-      "gain": 110.83,
-      "isHolding": false,
-      "entryDate": "2026-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688072.XSHG",
-      "name": "拓荆科技",
-      "buyPrice": 399.07,
-      "currPrice": 829.07,
-      "gain": 107.75,
-      "isHolding": false,
-      "entryDate": "2026-04-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "300666.XSHE",
-      "name": "江丰电子",
-      "buyPrice": 159.54,
-      "currPrice": 329.96,
-      "gain": 106.82,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "600584.XSHG",
-      "name": "长电科技",
-      "buyPrice": 50.9,
-      "currPrice": 104.17,
-      "gain": 104.66,
-      "isHolding": false,
-      "entryDate": "2026-05-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300604.XSHE",
-      "name": "长川科技",
-      "buyPrice": 154.03,
-      "currPrice": 304.7,
-      "gain": 97.82,
-      "isHolding": false,
-      "entryDate": "2026-04-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300308.XSHE",
-      "name": "中际旭创",
-      "buyPrice": 685.77,
-      "currPrice": 1328.98,
-      "gain": 93.79,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "301021.XSHE",
-      "name": "英诺激光",
-      "buyPrice": 71.42,
-      "currPrice": 135.9,
-      "gain": 90.28,
-      "isHolding": false,
-      "entryDate": "2026-05-14",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688347.XSHG",
-      "name": "华虹宏力",
-      "buyPrice": 177.0,
-      "currPrice": 334.43,
-      "gain": 88.94,
-      "isHolding": false,
-      "entryDate": "2026-05-20",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
-    },
-    {
-      "code": "688409.XSHG",
-      "name": "富创精密",
-      "buyPrice": 120.2,
-      "currPrice": 225.4,
-      "gain": 87.52,
-      "isHolding": false,
-      "entryDate": "2026-04-27",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002859.XSHE",
-      "name": "洁美科技",
-      "buyPrice": 54.52,
-      "currPrice": 97.14,
-      "gain": 78.17,
-      "isHolding": false,
-      "entryDate": "2026-05-14",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002080.XSHE",
-      "name": "中材科技",
-      "buyPrice": 53.18,
-      "currPrice": 92.93,
-      "gain": 74.75,
-      "isHolding": false,
-      "entryDate": "2026-04-23",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "600707.XSHG",
-      "name": "彩虹股份",
-      "buyPrice": 7.79,
-      "currPrice": 13.55,
-      "gain": 73.94,
-      "isHolding": false,
-      "entryDate": "2026-04-17",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300054.XSHE",
-      "name": "鼎龙股份",
-      "buyPrice": 55.71,
-      "currPrice": 95.51,
-      "gain": 71.44,
-      "isHolding": false,
-      "entryDate": "2026-04-23",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300567.XSHE",
-      "name": "精测电子",
-      "buyPrice": 156.12,
-      "currPrice": 263.87,
-      "gain": 69.02,
-      "isHolding": false,
-      "entryDate": "2026-05-11",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688017.XSHG",
-      "name": "绿的谐波",
-      "buyPrice": 230.66,
-      "currPrice": 389.72,
-      "gain": 68.96,
-      "isHolding": false,
-      "entryDate": "2026-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688536.XSHG",
-      "name": "思瑞浦",
-      "buyPrice": 212.04,
-      "currPrice": 352.06,
-      "gain": 66.03,
-      "isHolding": false,
-      "entryDate": "2026-04-23",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300672.XSHE",
-      "name": "国科微",
-      "buyPrice": 190.65,
-      "currPrice": 307.29,
-      "gain": 61.18,
-      "isHolding": false,
-      "entryDate": "2026-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300570.XSHE",
-      "name": "太辰光",
-      "buyPrice": 162.51,
-      "currPrice": 257.72,
-      "gain": 58.59,
-      "isHolding": false,
-      "entryDate": "2026-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688548.XSHG",
-      "name": "广钢气体",
-      "buyPrice": 25.98,
-      "currPrice": 40.38,
-      "gain": 55.43,
-      "isHolding": false,
-      "entryDate": "2026-04-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "603124.XSHG",
-      "name": "江南新材",
-      "buyPrice": 121.83,
-      "currPrice": 188.94,
-      "gain": 55.08,
-      "isHolding": false,
-      "entryDate": "2026-04-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "688535.XSHG",
-      "name": "华海诚科",
-      "buyPrice": 95.85,
-      "currPrice": 148.62,
-      "gain": 55.05,
-      "isHolding": false,
-      "entryDate": "2026-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688312.XSHG",
-      "name": "燕麦科技",
-      "buyPrice": 60.46,
-      "currPrice": 92.92,
-      "gain": 53.69,
-      "isHolding": false,
-      "entryDate": "2026-04-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "688525.XSHG",
-      "name": "佰维存储",
-      "buyPrice": 310.2,
-      "currPrice": 475.82,
-      "gain": 53.39,
-      "isHolding": false,
-      "entryDate": "2026-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688200.XSHG",
-      "name": "华峰测控",
-      "buyPrice": 303.61,
-      "currPrice": 457.86,
-      "gain": 50.81,
-      "isHolding": false,
-      "entryDate": "2026-04-17",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002916.XSHE",
-      "name": "深南电路",
-      "buyPrice": 299.91,
-      "currPrice": 451.59,
-      "gain": 50.58,
-      "isHolding": false,
-      "entryDate": "2026-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688003.XSHG",
-      "name": "天准科技",
-      "buyPrice": 80.18,
-      "currPrice": 118.59,
-      "gain": 47.9,
-      "isHolding": false,
-      "entryDate": "2026-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "001359.XSHE",
-      "name": "平安电工",
-      "buyPrice": 86.1,
-      "currPrice": 127.32,
-      "gain": 47.87,
-      "isHolding": false,
-      "entryDate": "2026-04-28",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
-    },
-    {
-      "code": "002371.XSHE",
-      "name": "北方华创",
-      "buyPrice": 547.28,
-      "currPrice": 800.91,
-      "gain": 46.34,
-      "isHolding": false,
-      "entryDate": "2026-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002353.XSHE",
-      "name": "杰瑞股份",
-      "buyPrice": 111.83,
-      "currPrice": 163.58,
-      "gain": 46.28,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "688059.XSHG",
-      "name": "华锐精密",
-      "buyPrice": 142.78,
-      "currPrice": 208.45,
-      "gain": 45.99,
-      "isHolding": false,
-      "entryDate": "2026-04-17",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "301086.XSHE",
-      "name": "鸿富瀚",
-      "buyPrice": 147.57,
-      "currPrice": 214.72,
-      "gain": 45.5,
-      "isHolding": false,
-      "entryDate": "2026-04-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "688179.XSHG",
-      "name": "阿拉丁",
-      "buyPrice": 18.35,
-      "currPrice": 26.67,
-      "gain": 45.34,
-      "isHolding": false,
-      "entryDate": "2026-04-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "601126.XSHG",
-      "name": "四方股份",
-      "buyPrice": 50.02,
-      "currPrice": 71.54,
-      "gain": 43.02,
-      "isHolding": false,
-      "entryDate": "2026-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300373.XSHE",
-      "name": "扬杰科技",
-      "buyPrice": 96.07,
-      "currPrice": 136.5,
-      "gain": 42.08,
-      "isHolding": false,
-      "entryDate": "2026-05-14",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688127.XSHG",
-      "name": "蓝特光学",
-      "buyPrice": 67.3,
-      "currPrice": 95.07,
-      "gain": 41.26,
-      "isHolding": false,
-      "entryDate": "2026-04-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "688150.XSHG",
-      "name": "莱特光电",
-      "buyPrice": 45.46,
-      "currPrice": 63.86,
-      "gain": 40.48,
-      "isHolding": false,
-      "entryDate": "2026-04-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "300390.XSHE",
-      "name": "天华新能",
-      "buyPrice": 68.28,
-      "currPrice": 95.04,
-      "gain": 39.19,
-      "isHolding": false,
-      "entryDate": "2026-04-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "688777.XSHG",
-      "name": "中控技术",
-      "buyPrice": 87.1,
-      "currPrice": 119.42,
-      "gain": 37.11,
-      "isHolding": false,
-      "entryDate": "2026-05-19",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
-    },
-    {
-      "code": "003043.XSHE",
-      "name": "华亚智能",
-      "buyPrice": 63.31,
-      "currPrice": 86.14,
-      "gain": 36.06,
-      "isHolding": false,
-      "entryDate": "2026-05-19",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
-    },
-    {
-      "code": "688257.XSHG",
-      "name": "新锐股份",
-      "buyPrice": 78.15,
-      "currPrice": 104.39,
-      "gain": 33.58,
-      "isHolding": false,
-      "entryDate": "2026-04-14",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "603269.XSHG",
-      "name": "海鸥股份",
-      "buyPrice": 17.1,
-      "currPrice": 22.81,
-      "gain": 33.39,
-      "isHolding": false,
-      "entryDate": "2026-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002407.XSHE",
-      "name": "多氟多",
-      "buyPrice": 33.04,
-      "currPrice": 43.66,
-      "gain": 32.14,
-      "isHolding": false,
-      "entryDate": "2026-04-24",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688352.XSHG",
-      "name": "颀中科技",
-      "buyPrice": 15.73,
-      "currPrice": 20.51,
-      "gain": 30.39,
-      "isHolding": false,
-      "entryDate": "2026-05-19",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
-    },
-    {
-      "code": "603052.XSHG",
-      "name": "可川科技",
-      "buyPrice": 69.38,
-      "currPrice": 90.0,
-      "gain": 29.72,
-      "isHolding": false,
-      "entryDate": "2026-04-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "688120.XSHG",
-      "name": "华海清科",
-      "buyPrice": 194.72,
-      "currPrice": 251.9,
-      "gain": 29.37,
-      "isHolding": false,
-      "entryDate": "2026-04-27",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300602.XSHE",
-      "name": "飞荣达",
-      "buyPrice": 38.27,
-      "currPrice": 49.47,
-      "gain": 29.27,
-      "isHolding": false,
-      "entryDate": "2026-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300438.XSHE",
-      "name": "鹏辉能源",
-      "buyPrice": 64.66,
-      "currPrice": 83.06,
-      "gain": 28.46,
-      "isHolding": false,
-      "entryDate": "2026-04-14",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688010.XSHG",
-      "name": "福光股份",
-      "buyPrice": 35.79,
-      "currPrice": 45.96,
-      "gain": 28.42,
-      "isHolding": false,
-      "entryDate": "2026-04-20",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300069.XSHE",
-      "name": "金利华电",
-      "buyPrice": 24.86,
-      "currPrice": 31.7,
-      "gain": 27.51,
-      "isHolding": false,
-      "entryDate": "2026-04-23",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688646.XSHG",
-      "name": "ST逸飞",
-      "buyPrice": 57.29,
-      "currPrice": 72.6,
-      "gain": 26.72,
-      "isHolding": false,
-      "entryDate": "2026-04-27",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002463.XSHE",
-      "name": "沪电股份",
-      "buyPrice": 122.71,
-      "currPrice": 154.82,
-      "gain": 26.17,
-      "isHolding": false,
-      "entryDate": "2026-05-25",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
-    },
-    {
-      "code": "002290.XSHE",
-      "name": "禾盛新材",
-      "buyPrice": 71.15,
-      "currPrice": 89.67,
-      "gain": 26.03,
-      "isHolding": false,
-      "entryDate": "2026-04-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "600498.XSHG",
-      "name": "烽火通信",
-      "buyPrice": 67.57,
-      "currPrice": 84.98,
-      "gain": 25.77,
-      "isHolding": false,
-      "entryDate": "2026-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "001309.XSHE",
-      "name": "德明利",
-      "buyPrice": 721.49,
-      "currPrice": 891.0,
-      "gain": 23.49,
-      "isHolding": false,
-      "entryDate": "2026-06-18",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "301307.XSHE",
-      "name": "美利信",
-      "buyPrice": 47.0,
-      "currPrice": 57.48,
-      "gain": 22.3,
-      "isHolding": false,
-      "entryDate": "2026-04-17",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "301611.XSHE",
-      "name": "珂玛科技",
-      "buyPrice": 125.27,
-      "currPrice": 150.23,
-      "gain": 19.92,
-      "isHolding": false,
-      "entryDate": "2026-06-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688376.XSHG",
-      "name": "美埃科技",
-      "buyPrice": 84.9,
-      "currPrice": 101.52,
-      "gain": 19.58,
-      "isHolding": false,
-      "entryDate": "2026-05-14",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "603876.XSHG",
-      "name": "鼎胜新材",
-      "buyPrice": 24.27,
-      "currPrice": 29.02,
-      "gain": 19.57,
-      "isHolding": false,
-      "entryDate": "2026-04-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "603061.XSHG",
-      "name": "金海通",
-      "buyPrice": 337.47,
-      "currPrice": 399.97,
-      "gain": 18.52,
-      "isHolding": false,
-      "entryDate": "2026-04-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
-    },
-    {
-      "code": "300236.XSHE",
-      "name": "上海新阳",
-      "buyPrice": 96.15,
-      "currPrice": 113.2,
-      "gain": 17.73,
-      "isHolding": false,
-      "entryDate": "2026-04-29",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688037.XSHG",
-      "name": "芯源微",
-      "buyPrice": 286.0,
-      "currPrice": 330.29,
-      "gain": 15.49,
-      "isHolding": false,
-      "entryDate": "2026-06-17",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "301308.XSHE",
-      "name": "江波龙",
-      "buyPrice": 587.01,
-      "currPrice": 675.2,
-      "gain": 15.02,
-      "isHolding": false,
-      "entryDate": "2026-06-18",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688629.XSHG",
-      "name": "华丰科技",
-      "buyPrice": 131.85,
-      "currPrice": 151.49,
-      "gain": 14.9,
-      "isHolding": false,
-      "entryDate": "2026-04-15",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "000510.XSHE",
-      "name": "新金路",
-      "buyPrice": 22.8,
-      "currPrice": 26.12,
-      "gain": 14.56,
-      "isHolding": false,
-      "entryDate": "2026-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "600345.XSHG",
-      "name": "长江通信",
-      "buyPrice": 63.9,
-      "currPrice": 72.39,
-      "gain": 13.29,
-      "isHolding": false,
-      "entryDate": "2026-05-11",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002832.XSHE",
-      "name": "比音勒芬",
-      "buyPrice": 18.61,
-      "currPrice": 21.0,
-      "gain": 12.84,
-      "isHolding": false,
-      "entryDate": "2026-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688611.XSHG",
-      "name": "杭州柯林",
-      "buyPrice": 66.86,
-      "currPrice": 74.71,
-      "gain": 11.74,
-      "isHolding": false,
-      "entryDate": "2026-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688419.XSHG",
-      "name": "耐科装备",
-      "buyPrice": 65.52,
-      "currPrice": 73.03,
-      "gain": 11.46,
-      "isHolding": false,
-      "entryDate": "2026-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688313.XSHG",
-      "name": "仕佳光子",
-      "buyPrice": 182.02,
-      "currPrice": 200.5,
-      "gain": 10.15,
-      "isHolding": false,
-      "entryDate": "2026-06-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300568.XSHE",
-      "name": "星源材质",
-      "buyPrice": 16.47,
-      "currPrice": 17.82,
-      "gain": 8.2,
-      "isHolding": false,
-      "entryDate": "2026-04-27",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688019.XSHG",
-      "name": "安集科技",
-      "buyPrice": 251.56,
-      "currPrice": 269.2,
-      "gain": 7.01,
-      "isHolding": false,
-      "entryDate": "2026-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300346.XSHE",
-      "name": "南大光电",
-      "buyPrice": 70.09,
-      "currPrice": 74.68,
-      "gain": 6.55,
-      "isHolding": false,
-      "entryDate": "2026-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "600563.XSHG",
-      "name": "法拉电子",
-      "buyPrice": 178.76,
-      "currPrice": 190.1,
-      "gain": 6.34,
-      "isHolding": false,
-      "entryDate": "2026-06-24",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "600961.XSHG",
-      "name": "株冶集团",
-      "buyPrice": 33.15,
-      "currPrice": 35.22,
-      "gain": 6.24,
-      "isHolding": false,
-      "entryDate": "2026-06-23",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688041.XSHG",
-      "name": "海光信息",
-      "buyPrice": 336.4,
-      "currPrice": 357.4,
-      "gain": 6.24,
-      "isHolding": false,
-      "entryDate": "2026-06-24",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002831.XSHE",
-      "name": "裕同科技",
-      "buyPrice": 33.72,
-      "currPrice": 35.82,
-      "gain": 6.23,
-      "isHolding": false,
-      "entryDate": "2026-05-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688469.XSHG",
-      "name": "芯联集成",
-      "buyPrice": 9.36,
-      "currPrice": 9.94,
-      "gain": 6.2,
-      "isHolding": false,
-      "entryDate": "2026-06-23",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300037.XSHE",
-      "name": "新宙邦",
-      "buyPrice": 85.99,
-      "currPrice": 90.98,
-      "gain": 5.8,
-      "isHolding": false,
-      "entryDate": "2026-04-29",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002979.XSHE",
-      "name": "雷赛智能",
-      "buyPrice": 49.51,
-      "currPrice": 52.23,
-      "gain": 5.49,
-      "isHolding": false,
-      "entryDate": "2026-05-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002156.XSHE",
-      "name": "通富微电",
-      "buyPrice": 74.04,
-      "currPrice": 77.95,
-      "gain": 5.28,
-      "isHolding": false,
-      "entryDate": "2026-06-24",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688720.XSHG",
-      "name": "艾森股份",
-      "buyPrice": 83.7,
-      "currPrice": 88.03,
-      "gain": 5.17,
-      "isHolding": false,
-      "entryDate": "2026-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "601636.XSHG",
-      "name": "旗滨集团",
-      "buyPrice": 7.88,
-      "currPrice": 8.28,
-      "gain": 5.08,
-      "isHolding": false,
-      "entryDate": "2026-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "300943.XSHE",
-      "name": "春晖智控",
-      "buyPrice": 45.27,
-      "currPrice": 47.49,
-      "gain": 4.9,
-      "isHolding": false,
-      "entryDate": "2026-06-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002606.XSHE",
-      "name": "大连电瓷",
-      "buyPrice": 13.34,
-      "currPrice": 13.98,
-      "gain": 4.8,
-      "isHolding": false,
-      "entryDate": "2026-04-23",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688110.XSHG",
-      "name": "东芯股份",
-      "buyPrice": 171.3,
-      "currPrice": 179.49,
-      "gain": 4.78,
-      "isHolding": false,
-      "entryDate": "2026-06-24",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "000100.XSHE",
-      "name": "TCL科技",
-      "buyPrice": 5.12,
-      "currPrice": 5.34,
-      "gain": 4.3,
-      "isHolding": false,
-      "entryDate": "2026-06-17",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
       "code": "603225.XSHG",
       "name": "新凤鸣",
       "buyPrice": 21.25,
@@ -4473,26 +3624,6 @@
       "gain": 4.28,
       "isHolding": false,
       "entryDate": "2026-06-15",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688392.XSHG",
-      "name": "骄成超声",
-      "buyPrice": 172.29,
-      "currPrice": 178.53,
-      "gain": 3.62,
-      "isHolding": false,
-      "entryDate": "2026-06-17",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002838.XSHE",
-      "name": "道恩股份",
-      "buyPrice": 32.57,
-      "currPrice": 33.3,
-      "gain": 2.24,
-      "isHolding": false,
-      "entryDate": "2026-05-06",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
@@ -4506,56 +3637,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
-      "code": "688502.XSHG",
-      "name": "茂莱光学",
-      "buyPrice": 568.55,
-      "currPrice": 580.0,
-      "gain": 2.01,
-      "isHolding": false,
-      "entryDate": "2026-06-24",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "301045.XSHE",
-      "name": "天禄科技",
-      "buyPrice": 65.18,
-      "currPrice": 66.48,
-      "gain": 1.99,
-      "isHolding": false,
-      "entryDate": "2026-06-18",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "000429.XSHE",
-      "name": "粤高速A",
-      "buyPrice": 13.49,
-      "currPrice": 13.68,
-      "gain": 1.41,
-      "isHolding": false,
-      "entryDate": "2026-05-25",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
-    },
-    {
-      "code": "688484.XSHG",
-      "name": "南芯科技",
-      "buyPrice": 52.51,
-      "currPrice": 53.17,
-      "gain": 1.26,
-      "isHolding": false,
-      "entryDate": "2026-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "603950.XSHG",
-      "name": "长源东谷",
-      "buyPrice": 74.75,
-      "currPrice": 75.32,
-      "gain": 0.76,
-      "isHolding": false,
-      "entryDate": "2026-06-23",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
       "code": "301312.XSHE",
       "name": "智立方",
       "buyPrice": 110.46,
@@ -4566,26 +3647,6 @@
       "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
     },
     {
-      "code": "300816.XSHE",
-      "name": "艾可蓝",
-      "buyPrice": 75.69,
-      "currPrice": 76.15,
-      "gain": 0.61,
-      "isHolding": false,
-      "entryDate": "2026-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "688390.XSHG",
-      "name": "固德威",
-      "buyPrice": 110.52,
-      "currPrice": 110.68,
-      "gain": 0.14,
-      "isHolding": false,
-      "entryDate": "2026-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
       "code": "000969.XSHE",
       "name": "安泰科技",
       "buyPrice": 26.47,
@@ -4593,16 +3654,6 @@
       "gain": 0.11,
       "isHolding": false,
       "entryDate": "2026-06-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "301070.XSHE",
-      "name": "开勒股份",
-      "buyPrice": 85.8,
-      "currPrice": 85.72,
-      "gain": -0.09,
-      "isHolding": false,
-      "entryDate": "2026-06-16",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
@@ -4616,26 +3667,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
-      "code": "300316.XSHE",
-      "name": "晶盛机电",
-      "buyPrice": 57.1,
-      "currPrice": 56.38,
-      "gain": -1.26,
-      "isHolding": false,
-      "entryDate": "2026-06-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "603379.XSHG",
-      "name": "三美股份",
-      "buyPrice": 68.46,
-      "currPrice": 67.2,
-      "gain": -1.84,
-      "isHolding": false,
-      "entryDate": "2026-06-17",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
       "code": "300491.XSHE",
       "name": "通合科技",
       "buyPrice": 39.02,
@@ -4643,16 +3674,6 @@
       "gain": -1.85,
       "isHolding": false,
       "entryDate": "2026-06-18",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "002643.XSHE",
-      "name": "万润股份",
-      "buyPrice": 19.51,
-      "currPrice": 19.08,
-      "gain": -2.2,
-      "isHolding": false,
-      "entryDate": "2026-06-24",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
@@ -4676,16 +3697,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
     {
-      "code": "000404.XSHE",
-      "name": "长虹华意",
-      "buyPrice": 7.79,
-      "currPrice": 7.34,
-      "gain": -5.78,
-      "isHolding": false,
-      "entryDate": "2026-04-20",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
       "code": "688188.XSHG",
       "name": "柏楚电子",
       "buyPrice": 159.25,
@@ -4704,6 +3715,1276 @@
       "isHolding": false,
       "entryDate": "2026-05-20",
       "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
+    },
+    {
+      "code": "301526.XSHE",
+      "name": "国际复材",
+      "buyPrice": 12.82,
+      "currPrice": 46.63,
+      "gain": 263.73,
+      "isHolding": false,
+      "entryDate": "2026-04-10",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "301511.XSHE",
+      "name": "德福科技",
+      "buyPrice": 44.95,
+      "currPrice": 143.32,
+      "gain": 218.84,
+      "isHolding": false,
+      "entryDate": "2026-04-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "000811.XSHE",
+      "name": "冰轮环境",
+      "buyPrice": 20.18,
+      "currPrice": 56.22,
+      "gain": 178.59,
+      "isHolding": false,
+      "entryDate": "2026-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "603186.XSHG",
+      "name": "华正新材",
+      "buyPrice": 81.02,
+      "currPrice": 222.7,
+      "gain": 174.87,
+      "isHolding": false,
+      "entryDate": "2026-04-29",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688143.XSHG",
+      "name": "长盈通",
+      "buyPrice": 64.2,
+      "currPrice": 174.17,
+      "gain": 171.29,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "300285.XSHE",
+      "name": "国瓷材料",
+      "buyPrice": 38.71,
+      "currPrice": 102.76,
+      "gain": 165.46,
+      "isHolding": false,
+      "entryDate": "2026-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "301377.XSHE",
+      "name": "鼎泰高科",
+      "buyPrice": 210.85,
+      "currPrice": 546.0,
+      "gain": 158.95,
+      "isHolding": true,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "300408.XSHE",
+      "name": "三环集团",
+      "buyPrice": 64.6,
+      "currPrice": 166.5,
+      "gain": 157.74,
+      "isHolding": false,
+      "entryDate": "2026-04-14",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688409.XSHG",
+      "name": "富创精密",
+      "buyPrice": 120.2,
+      "currPrice": 301.18,
+      "gain": 150.57,
+      "isHolding": false,
+      "entryDate": "2026-04-27",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "600176.XSHG",
+      "name": "中国巨石",
+      "buyPrice": 29.36,
+      "currPrice": 72.29,
+      "gain": 146.22,
+      "isHolding": false,
+      "entryDate": "2026-04-10",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688766.XSHG",
+      "name": "普冉股份",
+      "buyPrice": 318.27,
+      "currPrice": 769.99,
+      "gain": 141.93,
+      "isHolding": false,
+      "entryDate": "2026-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "605376.XSHG",
+      "name": "博迁新材",
+      "buyPrice": 112.8,
+      "currPrice": 272.43,
+      "gain": 141.52,
+      "isHolding": false,
+      "entryDate": "2026-04-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688627.XSHG",
+      "name": "精智达",
+      "buyPrice": 297.52,
+      "currPrice": 702.0,
+      "gain": 135.95,
+      "isHolding": false,
+      "entryDate": "2026-04-30",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300666.XSHE",
+      "name": "江丰电子",
+      "buyPrice": 159.54,
+      "currPrice": 369.1,
+      "gain": 131.35,
+      "isHolding": true,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688630.XSHG",
+      "name": "芯碁微装",
+      "buyPrice": 244.87,
+      "currPrice": 549.82,
+      "gain": 124.54,
+      "isHolding": false,
+      "entryDate": "2026-04-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688300.XSHG",
+      "name": "联瑞新材",
+      "buyPrice": 110.41,
+      "currPrice": 244.77,
+      "gain": 121.69,
+      "isHolding": false,
+      "entryDate": "2026-05-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300604.XSHE",
+      "name": "长川科技",
+      "buyPrice": 154.03,
+      "currPrice": 340.13,
+      "gain": 120.82,
+      "isHolding": false,
+      "entryDate": "2026-04-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300835.XSHE",
+      "name": "龙磁科技",
+      "buyPrice": 104.63,
+      "currPrice": 230.31,
+      "gain": 120.12,
+      "isHolding": false,
+      "entryDate": "2026-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "600707.XSHG",
+      "name": "彩虹股份",
+      "buyPrice": 7.79,
+      "currPrice": 16.89,
+      "gain": 116.82,
+      "isHolding": false,
+      "entryDate": "2026-04-17",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "603002.XSHG",
+      "name": "宏昌电子",
+      "buyPrice": 11.05,
+      "currPrice": 23.93,
+      "gain": 116.56,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688072.XSHG",
+      "name": "拓荆科技",
+      "buyPrice": 399.07,
+      "currPrice": 832.0,
+      "gain": 108.48,
+      "isHolding": false,
+      "entryDate": "2026-04-10",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "600584.XSHG",
+      "name": "长电科技",
+      "buyPrice": 50.9,
+      "currPrice": 103.97,
+      "gain": 104.26,
+      "isHolding": false,
+      "entryDate": "2026-05-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "601208.XSHG",
+      "name": "东材科技",
+      "buyPrice": 34.85,
+      "currPrice": 70.61,
+      "gain": 102.61,
+      "isHolding": false,
+      "entryDate": "2026-04-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "300567.XSHE",
+      "name": "精测电子",
+      "buyPrice": 156.12,
+      "currPrice": 312.5,
+      "gain": 100.17,
+      "isHolding": false,
+      "entryDate": "2026-05-11",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688548.XSHG",
+      "name": "广钢气体",
+      "buyPrice": 25.98,
+      "currPrice": 51.66,
+      "gain": 98.85,
+      "isHolding": false,
+      "entryDate": "2026-04-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002859.XSHE",
+      "name": "洁美科技",
+      "buyPrice": 54.52,
+      "currPrice": 107.85,
+      "gain": 97.82,
+      "isHolding": false,
+      "entryDate": "2026-05-14",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688535.XSHG",
+      "name": "华海诚科",
+      "buyPrice": 95.85,
+      "currPrice": 189.1,
+      "gain": 97.29,
+      "isHolding": false,
+      "entryDate": "2026-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "600105.XSHG",
+      "name": "永鼎股份",
+      "buyPrice": 34.55,
+      "currPrice": 67.88,
+      "gain": 96.47,
+      "isHolding": false,
+      "entryDate": "2026-04-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "600869.XSHG",
+      "name": "远东股份",
+      "buyPrice": 17.17,
+      "currPrice": 33.55,
+      "gain": 95.4,
+      "isHolding": false,
+      "entryDate": "2026-04-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688347.XSHG",
+      "name": "华虹宏力",
+      "buyPrice": 177.0,
+      "currPrice": 335.86,
+      "gain": 89.75,
+      "isHolding": false,
+      "entryDate": "2026-05-20",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
+    },
+    {
+      "code": "300054.XSHE",
+      "name": "鼎龙股份",
+      "buyPrice": 55.71,
+      "currPrice": 105.0,
+      "gain": 88.48,
+      "isHolding": false,
+      "entryDate": "2026-04-23",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "600522.XSHG",
+      "name": "中天科技",
+      "buyPrice": 32.22,
+      "currPrice": 60.3,
+      "gain": 87.15,
+      "isHolding": false,
+      "entryDate": "2026-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300308.XSHE",
+      "name": "中际旭创",
+      "buyPrice": 685.77,
+      "currPrice": 1272.29,
+      "gain": 85.53,
+      "isHolding": true,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688017.XSHG",
+      "name": "绿的谐波",
+      "buyPrice": 230.66,
+      "currPrice": 420.88,
+      "gain": 82.47,
+      "isHolding": false,
+      "entryDate": "2026-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688200.XSHG",
+      "name": "华峰测控",
+      "buyPrice": 303.61,
+      "currPrice": 521.01,
+      "gain": 71.61,
+      "isHolding": false,
+      "entryDate": "2026-04-17",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "301021.XSHE",
+      "name": "英诺激光",
+      "buyPrice": 71.42,
+      "currPrice": 122.47,
+      "gain": 71.48,
+      "isHolding": false,
+      "entryDate": "2026-05-14",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688536.XSHG",
+      "name": "思瑞浦",
+      "buyPrice": 212.04,
+      "currPrice": 360.21,
+      "gain": 69.88,
+      "isHolding": false,
+      "entryDate": "2026-04-23",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002080.XSHE",
+      "name": "中材科技",
+      "buyPrice": 53.18,
+      "currPrice": 89.42,
+      "gain": 68.15,
+      "isHolding": false,
+      "entryDate": "2026-04-23",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688120.XSHG",
+      "name": "华海清科",
+      "buyPrice": 194.72,
+      "currPrice": 323.33,
+      "gain": 66.05,
+      "isHolding": false,
+      "entryDate": "2026-04-27",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300373.XSHE",
+      "name": "扬杰科技",
+      "buyPrice": 96.07,
+      "currPrice": 155.8,
+      "gain": 62.17,
+      "isHolding": false,
+      "entryDate": "2026-05-14",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002371.XSHE",
+      "name": "北方华创",
+      "buyPrice": 547.28,
+      "currPrice": 881.14,
+      "gain": 61.0,
+      "isHolding": false,
+      "entryDate": "2026-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688525.XSHG",
+      "name": "佰维存储",
+      "buyPrice": 310.2,
+      "currPrice": 499.2,
+      "gain": 60.93,
+      "isHolding": false,
+      "entryDate": "2026-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "301307.XSHE",
+      "name": "美利信",
+      "buyPrice": 47.0,
+      "currPrice": 75.0,
+      "gain": 59.57,
+      "isHolding": false,
+      "entryDate": "2026-04-17",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688003.XSHG",
+      "name": "天准科技",
+      "buyPrice": 80.18,
+      "currPrice": 126.66,
+      "gain": 57.97,
+      "isHolding": false,
+      "entryDate": "2026-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "003043.XSHE",
+      "name": "华亚智能",
+      "buyPrice": 63.31,
+      "currPrice": 99.39,
+      "gain": 56.99,
+      "isHolding": false,
+      "entryDate": "2026-05-19",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
+    },
+    {
+      "code": "300672.XSHE",
+      "name": "国科微",
+      "buyPrice": 190.65,
+      "currPrice": 297.49,
+      "gain": 56.04,
+      "isHolding": false,
+      "entryDate": "2026-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688352.XSHG",
+      "name": "颀中科技",
+      "buyPrice": 15.73,
+      "currPrice": 24.18,
+      "gain": 53.72,
+      "isHolding": false,
+      "entryDate": "2026-05-19",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
+    },
+    {
+      "code": "603124.XSHG",
+      "name": "江南新材",
+      "buyPrice": 121.83,
+      "currPrice": 186.5,
+      "gain": 53.08,
+      "isHolding": false,
+      "entryDate": "2026-04-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "002916.XSHE",
+      "name": "深南电路",
+      "buyPrice": 299.91,
+      "currPrice": 458.79,
+      "gain": 52.98,
+      "isHolding": false,
+      "entryDate": "2026-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688037.XSHG",
+      "name": "芯源微",
+      "buyPrice": 286.0,
+      "currPrice": 435.98,
+      "gain": 52.44,
+      "isHolding": false,
+      "entryDate": "2026-06-17",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300570.XSHE",
+      "name": "太辰光",
+      "buyPrice": 162.51,
+      "currPrice": 247.26,
+      "gain": 52.15,
+      "isHolding": false,
+      "entryDate": "2026-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002407.XSHE",
+      "name": "多氟多",
+      "buyPrice": 33.04,
+      "currPrice": 50.23,
+      "gain": 52.03,
+      "isHolding": false,
+      "entryDate": "2026-04-24",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688150.XSHG",
+      "name": "莱特光电",
+      "buyPrice": 45.46,
+      "currPrice": 68.86,
+      "gain": 51.47,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688179.XSHG",
+      "name": "阿拉丁",
+      "buyPrice": 18.35,
+      "currPrice": 27.59,
+      "gain": 50.35,
+      "isHolding": false,
+      "entryDate": "2026-04-10",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "603061.XSHG",
+      "name": "金海通",
+      "buyPrice": 337.47,
+      "currPrice": 502.13,
+      "gain": 48.79,
+      "isHolding": true,
+      "entryDate": "2026-04-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "001359.XSHE",
+      "name": "平安电工",
+      "buyPrice": 86.1,
+      "currPrice": 124.01,
+      "gain": 44.03,
+      "isHolding": false,
+      "entryDate": "2026-04-28",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
+    },
+    {
+      "code": "301611.XSHE",
+      "name": "珂玛科技",
+      "buyPrice": 125.27,
+      "currPrice": 179.02,
+      "gain": 42.91,
+      "isHolding": false,
+      "entryDate": "2026-06-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688127.XSHG",
+      "name": "蓝特光学",
+      "buyPrice": 67.3,
+      "currPrice": 95.99,
+      "gain": 42.63,
+      "isHolding": false,
+      "entryDate": "2026-04-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688629.XSHG",
+      "name": "华丰科技",
+      "buyPrice": 131.85,
+      "currPrice": 187.01,
+      "gain": 41.84,
+      "isHolding": false,
+      "entryDate": "2026-04-15",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "301086.XSHE",
+      "name": "鸿富瀚",
+      "buyPrice": 147.57,
+      "currPrice": 207.54,
+      "gain": 40.64,
+      "isHolding": false,
+      "entryDate": "2026-04-10",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688059.XSHG",
+      "name": "华锐精密",
+      "buyPrice": 142.78,
+      "currPrice": 199.11,
+      "gain": 39.45,
+      "isHolding": false,
+      "entryDate": "2026-04-17",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688312.XSHG",
+      "name": "燕麦科技",
+      "buyPrice": 60.46,
+      "currPrice": 84.31,
+      "gain": 39.45,
+      "isHolding": false,
+      "entryDate": "2026-04-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "301045.XSHE",
+      "name": "天禄科技",
+      "buyPrice": 65.18,
+      "currPrice": 89.08,
+      "gain": 36.67,
+      "isHolding": true,
+      "entryDate": "2026-06-18",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688376.XSHG",
+      "name": "美埃科技",
+      "buyPrice": 84.9,
+      "currPrice": 115.96,
+      "gain": 36.58,
+      "isHolding": false,
+      "entryDate": "2026-05-14",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300390.XSHE",
+      "name": "天华新能",
+      "buyPrice": 68.28,
+      "currPrice": 92.97,
+      "gain": 36.16,
+      "isHolding": false,
+      "entryDate": "2026-04-10",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "002353.XSHE",
+      "name": "杰瑞股份",
+      "buyPrice": 111.83,
+      "currPrice": 152.15,
+      "gain": 36.05,
+      "isHolding": false,
+      "entryDate": "2026-04-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688777.XSHG",
+      "name": "中控技术",
+      "buyPrice": 87.1,
+      "currPrice": 118.43,
+      "gain": 35.97,
+      "isHolding": false,
+      "entryDate": "2026-05-19",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
+    },
+    {
+      "code": "688010.XSHG",
+      "name": "福光股份",
+      "buyPrice": 35.79,
+      "currPrice": 48.64,
+      "gain": 35.9,
+      "isHolding": false,
+      "entryDate": "2026-04-20",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300236.XSHE",
+      "name": "上海新阳",
+      "buyPrice": 96.15,
+      "currPrice": 130.51,
+      "gain": 35.74,
+      "isHolding": false,
+      "entryDate": "2026-04-29",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688392.XSHG",
+      "name": "骄成超声",
+      "buyPrice": 172.29,
+      "currPrice": 229.1,
+      "gain": 32.97,
+      "isHolding": false,
+      "entryDate": "2026-06-17",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300602.XSHE",
+      "name": "飞荣达",
+      "buyPrice": 38.27,
+      "currPrice": 50.86,
+      "gain": 32.9,
+      "isHolding": false,
+      "entryDate": "2026-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688019.XSHG",
+      "name": "安集科技",
+      "buyPrice": 251.56,
+      "currPrice": 332.55,
+      "gain": 32.2,
+      "isHolding": false,
+      "entryDate": "2026-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "001309.XSHE",
+      "name": "德明利",
+      "buyPrice": 721.49,
+      "currPrice": 945.8,
+      "gain": 31.09,
+      "isHolding": false,
+      "entryDate": "2026-06-18",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300346.XSHE",
+      "name": "南大光电",
+      "buyPrice": 70.09,
+      "currPrice": 91.75,
+      "gain": 30.9,
+      "isHolding": false,
+      "entryDate": "2026-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688257.XSHG",
+      "name": "新锐股份",
+      "buyPrice": 78.15,
+      "currPrice": 101.7,
+      "gain": 30.13,
+      "isHolding": false,
+      "entryDate": "2026-04-14",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "601636.XSHG",
+      "name": "旗滨集团",
+      "buyPrice": 7.88,
+      "currPrice": 10.2,
+      "gain": 29.44,
+      "isHolding": false,
+      "entryDate": "2026-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002290.XSHE",
+      "name": "禾盛新材",
+      "buyPrice": 71.15,
+      "currPrice": 91.87,
+      "gain": 29.12,
+      "isHolding": false,
+      "entryDate": "2026-04-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688646.XSHG",
+      "name": "ST逸飞",
+      "buyPrice": 57.29,
+      "currPrice": 73.8,
+      "gain": 28.82,
+      "isHolding": false,
+      "entryDate": "2026-04-27",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300438.XSHE",
+      "name": "鹏辉能源",
+      "buyPrice": 64.66,
+      "currPrice": 82.55,
+      "gain": 27.67,
+      "isHolding": false,
+      "entryDate": "2026-04-14",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300069.XSHE",
+      "name": "金利华电",
+      "buyPrice": 24.86,
+      "currPrice": 31.72,
+      "gain": 27.59,
+      "isHolding": false,
+      "entryDate": "2026-04-23",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "301392.XSHE",
+      "name": "汇成真空",
+      "buyPrice": 228.33,
+      "currPrice": 287.93,
+      "gain": 26.1,
+      "isHolding": false,
+      "entryDate": "2026-06-25",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "601126.XSHG",
+      "name": "四方股份",
+      "buyPrice": 50.02,
+      "currPrice": 62.81,
+      "gain": 25.57,
+      "isHolding": false,
+      "entryDate": "2026-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002463.XSHE",
+      "name": "沪电股份",
+      "buyPrice": 122.71,
+      "currPrice": 152.48,
+      "gain": 24.26,
+      "isHolding": false,
+      "entryDate": "2026-05-25",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
+    },
+    {
+      "code": "688502.XSHG",
+      "name": "茂莱光学",
+      "buyPrice": 568.55,
+      "currPrice": 693.6,
+      "gain": 21.99,
+      "isHolding": false,
+      "entryDate": "2026-06-24",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "301308.XSHE",
+      "name": "江波龙",
+      "buyPrice": 587.01,
+      "currPrice": 707.04,
+      "gain": 20.45,
+      "isHolding": false,
+      "entryDate": "2026-06-18",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688419.XSHG",
+      "name": "耐科装备",
+      "buyPrice": 65.52,
+      "currPrice": 78.59,
+      "gain": 19.95,
+      "isHolding": false,
+      "entryDate": "2026-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688720.XSHG",
+      "name": "艾森股份",
+      "buyPrice": 83.7,
+      "currPrice": 100.2,
+      "gain": 19.71,
+      "isHolding": false,
+      "entryDate": "2026-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688727.XSHG",
+      "name": "恒坤新材",
+      "buyPrice": 62.85,
+      "currPrice": 74.86,
+      "gain": 19.11,
+      "isHolding": false,
+      "entryDate": "2026-06-25",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688110.XSHG",
+      "name": "东芯股份",
+      "buyPrice": 171.3,
+      "currPrice": 203.43,
+      "gain": 18.76,
+      "isHolding": false,
+      "entryDate": "2026-06-24",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "603163.XSHG",
+      "name": "圣晖集成",
+      "buyPrice": 123.69,
+      "currPrice": 145.09,
+      "gain": 17.3,
+      "isHolding": false,
+      "entryDate": "2026-06-25",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "603052.XSHG",
+      "name": "可川科技",
+      "buyPrice": 69.38,
+      "currPrice": 81.1,
+      "gain": 16.89,
+      "isHolding": false,
+      "entryDate": "2026-04-10",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "000100.XSHE",
+      "name": "TCL科技",
+      "buyPrice": 5.12,
+      "currPrice": 5.82,
+      "gain": 13.67,
+      "isHolding": true,
+      "entryDate": "2026-06-17",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688469.XSHG",
+      "name": "芯联集成",
+      "buyPrice": 9.36,
+      "currPrice": 10.61,
+      "gain": 13.35,
+      "isHolding": false,
+      "entryDate": "2026-06-23",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "603950.XSHG",
+      "name": "长源东谷",
+      "buyPrice": 74.75,
+      "currPrice": 84.43,
+      "gain": 12.95,
+      "isHolding": false,
+      "entryDate": "2026-06-23",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300568.XSHE",
+      "name": "星源材质",
+      "buyPrice": 16.47,
+      "currPrice": 18.59,
+      "gain": 12.87,
+      "isHolding": false,
+      "entryDate": "2026-04-27",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002979.XSHE",
+      "name": "雷赛智能",
+      "buyPrice": 49.51,
+      "currPrice": 55.87,
+      "gain": 12.85,
+      "isHolding": false,
+      "entryDate": "2026-05-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "603379.XSHG",
+      "name": "三美股份",
+      "buyPrice": 68.46,
+      "currPrice": 75.89,
+      "gain": 10.85,
+      "isHolding": false,
+      "entryDate": "2026-06-17",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688041.XSHG",
+      "name": "海光信息",
+      "buyPrice": 336.4,
+      "currPrice": 371.79,
+      "gain": 10.52,
+      "isHolding": false,
+      "entryDate": "2026-06-24",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002832.XSHE",
+      "name": "比音勒芬",
+      "buyPrice": 18.61,
+      "currPrice": 20.55,
+      "gain": 10.42,
+      "isHolding": false,
+      "entryDate": "2026-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688521.XSHG",
+      "name": "芯原股份",
+      "buyPrice": 338.13,
+      "currPrice": 371.0,
+      "gain": 9.72,
+      "isHolding": false,
+      "entryDate": "2026-05-19",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
+    },
+    {
+      "code": "600498.XSHG",
+      "name": "烽火通信",
+      "buyPrice": 67.57,
+      "currPrice": 73.53,
+      "gain": 8.82,
+      "isHolding": true,
+      "entryDate": "2026-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "000510.XSHE",
+      "name": "新金路",
+      "buyPrice": 22.8,
+      "currPrice": 24.8,
+      "gain": 8.77,
+      "isHolding": false,
+      "entryDate": "2026-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "603876.XSHG",
+      "name": "鼎胜新材",
+      "buyPrice": 24.27,
+      "currPrice": 26.12,
+      "gain": 7.62,
+      "isHolding": false,
+      "entryDate": "2026-04-10",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
+    },
+    {
+      "code": "688401.XSHG",
+      "name": "路维光电",
+      "buyPrice": 89.39,
+      "currPrice": 95.87,
+      "gain": 7.25,
+      "isHolding": false,
+      "entryDate": "2026-06-25",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002643.XSHE",
+      "name": "万润股份",
+      "buyPrice": 19.51,
+      "currPrice": 20.92,
+      "gain": 7.23,
+      "isHolding": true,
+      "entryDate": "2026-06-24",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "600563.XSHG",
+      "name": "法拉电子",
+      "buyPrice": 178.76,
+      "currPrice": 190.09,
+      "gain": 6.34,
+      "isHolding": false,
+      "entryDate": "2026-06-24",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688611.XSHG",
+      "name": "杭州柯林",
+      "buyPrice": 66.86,
+      "currPrice": 71.09,
+      "gain": 6.33,
+      "isHolding": false,
+      "entryDate": "2026-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300037.XSHE",
+      "name": "新宙邦",
+      "buyPrice": 85.99,
+      "currPrice": 91.36,
+      "gain": 6.24,
+      "isHolding": false,
+      "entryDate": "2026-04-29",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300316.XSHE",
+      "name": "晶盛机电",
+      "buyPrice": 57.1,
+      "currPrice": 60.31,
+      "gain": 5.62,
+      "isHolding": false,
+      "entryDate": "2026-06-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002831.XSHE",
+      "name": "裕同科技",
+      "buyPrice": 33.72,
+      "currPrice": 35.48,
+      "gain": 5.22,
+      "isHolding": false,
+      "entryDate": "2026-05-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688484.XSHG",
+      "name": "南芯科技",
+      "buyPrice": 52.51,
+      "currPrice": 53.85,
+      "gain": 2.55,
+      "isHolding": false,
+      "entryDate": "2026-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300136.XSHE",
+      "name": "信维通信",
+      "buyPrice": 116.13,
+      "currPrice": 119.0,
+      "gain": 2.47,
+      "isHolding": false,
+      "entryDate": "2026-06-25",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "600345.XSHG",
+      "name": "长江通信",
+      "buyPrice": 63.9,
+      "currPrice": 65.45,
+      "gain": 2.43,
+      "isHolding": false,
+      "entryDate": "2026-05-11",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002156.XSHE",
+      "name": "通富微电",
+      "buyPrice": 74.04,
+      "currPrice": 75.42,
+      "gain": 1.86,
+      "isHolding": false,
+      "entryDate": "2026-06-24",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688313.XSHG",
+      "name": "仕佳光子",
+      "buyPrice": 182.02,
+      "currPrice": 184.96,
+      "gain": 1.62,
+      "isHolding": false,
+      "entryDate": "2026-06-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "301418.XSHE",
+      "name": "协昌科技",
+      "buyPrice": 55.49,
+      "currPrice": 56.36,
+      "gain": 1.57,
+      "isHolding": false,
+      "entryDate": "2026-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "603690.XSHG",
+      "name": "至纯科技",
+      "buyPrice": 34.57,
+      "currPrice": 35.05,
+      "gain": 1.39,
+      "isHolding": false,
+      "entryDate": "2026-06-25",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "301070.XSHE",
+      "name": "开勒股份",
+      "buyPrice": 85.8,
+      "currPrice": 86.69,
+      "gain": 1.04,
+      "isHolding": false,
+      "entryDate": "2026-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "000404.XSHE",
+      "name": "长虹华意",
+      "buyPrice": 7.79,
+      "currPrice": 7.87,
+      "gain": 1.03,
+      "isHolding": false,
+      "entryDate": "2026-04-20",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "000429.XSHE",
+      "name": "粤高速A",
+      "buyPrice": 13.49,
+      "currPrice": 13.62,
+      "gain": 0.96,
+      "isHolding": false,
+      "entryDate": "2026-05-25",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯]"
+    },
+    {
+      "code": "002606.XSHE",
+      "name": "大连电瓷",
+      "buyPrice": 13.34,
+      "currPrice": 13.43,
+      "gain": 0.67,
+      "isHolding": false,
+      "entryDate": "2026-04-23",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300943.XSHE",
+      "name": "春晖智控",
+      "buyPrice": 45.27,
+      "currPrice": 44.79,
+      "gain": -1.06,
+      "isHolding": false,
+      "entryDate": "2026-06-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "688390.XSHG",
+      "name": "固德威",
+      "buyPrice": 110.52,
+      "currPrice": 108.75,
+      "gain": -1.6,
+      "isHolding": false,
+      "entryDate": "2026-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "600961.XSHG",
+      "name": "株冶集团",
+      "buyPrice": 33.15,
+      "currPrice": 32.25,
+      "gain": -2.71,
+      "isHolding": true,
+      "entryDate": "2026-06-23",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "300816.XSHE",
+      "name": "艾可蓝",
+      "buyPrice": 75.69,
+      "currPrice": 73.24,
+      "gain": -3.24,
+      "isHolding": false,
+      "entryDate": "2026-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "603269.XSHG",
+      "name": "海鸥股份",
+      "buyPrice": 17.1,
+      "currPrice": 16.41,
+      "gain": -4.04,
+      "isHolding": false,
+      "entryDate": "2026-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
+    },
+    {
+      "code": "002838.XSHE",
+      "name": "道恩股份",
+      "buyPrice": 32.57,
+      "currPrice": 30.84,
+      "gain": -5.31,
+      "isHolding": false,
+      "entryDate": "2026-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     }
   ],
   "exited": [
@@ -7856,9 +8137,9 @@
       "entryDate": "2026-06-18",
       "code": "300491.XSHE",
       "name": "通合科技",
-      "buyPrice": 39.64,
+      "buyPrice": 39.02,
       "outPrice": 35.0,
-      "gain": -11.71,
+      "gain": -10.3,
       "isWin": false,
       "exitReason": "8%硬止损（监控池）",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
