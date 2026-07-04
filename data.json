@@ -1,19 +1,160 @@
 {
   "snapshotDate": "2025-06-23",
-  "updatedAt": "2026-07-04T15:25:35",
+  "updatedAt": "2026-07-04T15:26:01",
   "pushTime": "14:35",
-  "data": [],
-  "shIdx": 3365.89,
-  "shChg": 0.18,
-  "szIdx": 9986.33,
-  "szChg": -0.19,
-  "cybIdx": 2002.33,
-  "cybChg": -0.38,
-  "kcbIdx": 961.19,
-  "kcbChg": 0.35,
-  "hs300": 3840.9,
-  "hsChg": -0.15,
-  "marketStatus": "[🚨绝对空头阴跌 / 红灯]",
+  "data": [
+    {
+      "rank": 1,
+      "code": "603706.XSHG",
+      "name": "东方环宇",
+      "score": 69,
+      "price": 22.29,
+      "indName": "燃气II",
+      "star": "★★★",
+      "volumeRatio": 1.19,
+      "deductedYoyGrowth": 12.7,
+      "realRoe": 4.6,
+      "marketCap": 40.3,
+      "peTtm": 19.5,
+      "deviationRate": "12.31%",
+      "stockMomentum": 86.3,
+      "indMomentum": 93.4,
+      "fund1d": "-0.0万",
+      "fund5d": "-0.0万",
+      "fund10d": "+0.0万",
+      "dailyChange": 9.37,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 5,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 2,
+      "code": "301607.XSHE",
+      "name": "富特科技",
+      "score": 69,
+      "price": 36.46,
+      "indName": "汽车零部件II",
+      "star": "★★★",
+      "volumeRatio": 1.56,
+      "deductedYoyGrowth": 0.0,
+      "realRoe": 1.22,
+      "marketCap": 54.3,
+      "peTtm": 57.6,
+      "deviationRate": "1.96%",
+      "stockMomentum": 87.7,
+      "indMomentum": 86.1,
+      "fund1d": "+0.0万",
+      "fund5d": "+0.0万",
+      "fund10d": "+0.0万",
+      "dailyChange": 46.48,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 5,
+        "performance": 10,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 3,
+      "code": "002338.XSHE",
+      "name": "奥普光电",
+      "score": 54,
+      "price": 46.34,
+      "indName": "军工电子II",
+      "star": "★★",
+      "volumeRatio": 2.11,
+      "deductedYoyGrowth": -15.4,
+      "realRoe": 1.61,
+      "marketCap": 106.4,
+      "peTtm": 168.5,
+      "deviationRate": "-0.53%",
+      "stockMomentum": 73.9,
+      "indMomentum": 77.0,
+      "fund1d": "-0.0万",
+      "fund5d": "-0.0万",
+      "fund10d": "-1.0万",
+      "dailyChange": 4.68,
+      "scoreDetail": {
+        "trend": 24,
+        "cycle": 0,
+        "energy": 0,
+        "performance": 0,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 4,
+      "code": "601336.XSHG",
+      "name": "新华保险",
+      "score": 50,
+      "price": 57.01,
+      "indName": "保险II",
+      "star": "★★★★",
+      "volumeRatio": 0.98,
+      "deductedYoyGrowth": 19.02,
+      "realRoe": 5.93,
+      "marketCap": 1764.7,
+      "peTtm": 6.5,
+      "deviationRate": "6.51%",
+      "stockMomentum": 76.3,
+      "indMomentum": 67.2,
+      "fund1d": "+1.0万",
+      "fund5d": "-1.0万",
+      "fund10d": "-1.0万",
+      "dailyChange": 4.93,
+      "scoreDetail": {
+        "trend": 16,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 0,
+        "roe": 5
+      }
+    },
+    {
+      "rank": 5,
+      "code": "601318.XSHG",
+      "name": "中国平安",
+      "score": 37,
+      "price": 55.18,
+      "indName": "保险II",
+      "star": "★★★★",
+      "volumeRatio": 1.01,
+      "deductedYoyGrowth": -21.96,
+      "realRoe": 0.81,
+      "marketCap": 9968.3,
+      "peTtm": 8.5,
+      "deviationRate": "0.83%",
+      "stockMomentum": 62.8,
+      "indMomentum": 67.2,
+      "fund1d": "+1.0万",
+      "fund5d": "+1.0万",
+      "fund10d": "+3.0万",
+      "dailyChange": 8.97,
+      "scoreDetail": {
+        "trend": 7,
+        "cycle": 0,
+        "energy": 10,
+        "performance": 0,
+        "roe": 0
+      }
+    }
+  ],
+  "shIdx": 3385.72,
+  "shChg": 0.77,
+  "szIdx": 10057.97,
+  "szChg": 0.53,
+  "cybIdx": 2020.19,
+  "cybChg": 0.51,
+  "kcbIdx": 963.07,
+  "kcbChg": 0.54,
+  "hs300": 3863.6,
+  "hsChg": 0.44,
+  "marketStatus": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20",
   "poolAudit": [
     {
       "code": "002422.XSHE",
@@ -1116,16 +1257,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,科创50破MA20"
     },
     {
-      "code": "300816.XSHE",
-      "name": "艾可蓝",
-      "buyPrice": 35.6,
-      "currPrice": 33.47,
-      "gain": -5.98,
-      "isHolding": false,
-      "entryDate": "2025-06-18",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
       "code": "688778.XSHG",
       "name": "厦钨新能",
       "buyPrice": 59.29,
@@ -1304,16 +1435,6 @@
       "isHolding": false,
       "entryDate": "2025-07-14",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
-    },
-    {
-      "code": "600183.XSHG",
-      "name": "生益科技",
-      "buyPrice": 29.69,
-      "currPrice": 41.38,
-      "gain": 39.37,
-      "isHolding": false,
-      "entryDate": "2025-06-18",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
       "code": "688084.XSHG",
@@ -3446,716 +3567,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
-      "code": "301225.XSHE",
-      "name": "恒勃股份",
-      "buyPrice": 41.5,
-      "currPrice": 77.61,
-      "gain": 87.01,
-      "isHolding": false,
-      "entryDate": "2025-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "002602.XSHE",
-      "name": "世纪华通",
-      "buyPrice": 7.09,
-      "currPrice": 10.62,
-      "gain": 49.79,
-      "isHolding": false,
-      "entryDate": "2025-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "603011.XSHG",
-      "name": "合锻智能",
-      "buyPrice": 12.02,
-      "currPrice": 17.55,
-      "gain": 46.01,
-      "isHolding": false,
-      "entryDate": "2025-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002731.XSHE",
-      "name": "ST萃华",
-      "buyPrice": 10.8,
-      "currPrice": 15.61,
-      "gain": 44.54,
-      "isHolding": false,
-      "entryDate": "2025-05-20",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "301345.XSHE",
-      "name": "涛涛车业",
-      "buyPrice": 69.25,
-      "currPrice": 99.54,
-      "gain": 43.74,
-      "isHolding": false,
-      "entryDate": "2025-05-29",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002250.XSHE",
-      "name": "联化科技",
-      "buyPrice": 8.36,
-      "currPrice": 11.82,
-      "gain": 41.39,
-      "isHolding": false,
-      "entryDate": "2025-05-29",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002558.XSHE",
-      "name": "巨人网络",
-      "buyPrice": 15.46,
-      "currPrice": 20.58,
-      "gain": 33.12,
-      "isHolding": false,
-      "entryDate": "2025-06-03",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600562.XSHG",
-      "name": "国睿科技",
-      "buyPrice": 24.67,
-      "currPrice": 32.13,
-      "gain": 30.24,
-      "isHolding": false,
-      "entryDate": "2025-05-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "002891.XSHE",
-      "name": "中宠股份",
-      "buyPrice": 48.75,
-      "currPrice": 62.69,
-      "gain": 28.59,
-      "isHolding": false,
-      "entryDate": "2025-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "300191.XSHE",
-      "name": "潜能恒信",
-      "buyPrice": 17.74,
-      "currPrice": 22.76,
-      "gain": 28.3,
-      "isHolding": false,
-      "entryDate": "2025-06-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688183.XSHG",
-      "name": "生益电子",
-      "buyPrice": 38.27,
-      "currPrice": 49.04,
-      "gain": 28.14,
-      "isHolding": false,
-      "entryDate": "2025-06-05",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600259.XSHG",
-      "name": "中稀有色",
-      "buyPrice": 42.53,
-      "currPrice": 54.38,
-      "gain": 27.86,
-      "isHolding": false,
-      "entryDate": "2025-05-15",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688129.XSHG",
-      "name": "东来技术",
-      "buyPrice": 21.49,
-      "currPrice": 27.05,
-      "gain": 25.87,
-      "isHolding": false,
-      "entryDate": "2025-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "000506.XSHE",
-      "name": "招金黄金",
-      "buyPrice": 7.47,
-      "currPrice": 9.24,
-      "gain": 23.69,
-      "isHolding": false,
-      "entryDate": "2025-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688668.XSHG",
-      "name": "鼎通科技",
-      "buyPrice": 53.15,
-      "currPrice": 65.44,
-      "gain": 23.12,
-      "isHolding": false,
-      "entryDate": "2025-06-04",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "300765.XSHE",
-      "name": "石药创新",
-      "buyPrice": 45.75,
-      "currPrice": 55.81,
-      "gain": 21.99,
-      "isHolding": false,
-      "entryDate": "2025-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "603683.XSHG",
-      "name": "晶华新材",
-      "buyPrice": 13.0,
-      "currPrice": 15.72,
-      "gain": 20.92,
-      "isHolding": false,
-      "entryDate": "2025-05-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688428.XSHG",
-      "name": "诺诚健华",
-      "buyPrice": 20.88,
-      "currPrice": 24.96,
-      "gain": 19.54,
-      "isHolding": false,
-      "entryDate": "2025-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "300798.XSHE",
-      "name": "锦鸡股份",
-      "buyPrice": 8.81,
-      "currPrice": 10.53,
-      "gain": 19.52,
-      "isHolding": false,
-      "entryDate": "2025-06-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002345.XSHE",
-      "name": "潮宏基",
-      "buyPrice": 12.11,
-      "currPrice": 14.38,
-      "gain": 18.74,
-      "isHolding": false,
-      "entryDate": "2025-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "603699.XSHG",
-      "name": "纽威股份",
-      "buyPrice": 28.5,
-      "currPrice": 33.82,
-      "gain": 18.67,
-      "isHolding": false,
-      "entryDate": "2025-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688302.XSHG",
-      "name": "海创药业",
-      "buyPrice": 43.0,
-      "currPrice": 50.95,
-      "gain": 18.49,
-      "isHolding": false,
-      "entryDate": "2025-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "601069.XSHG",
-      "name": "西部黄金",
-      "buyPrice": 18.6,
-      "currPrice": 22.01,
-      "gain": 18.33,
-      "isHolding": false,
-      "entryDate": "2025-05-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603129.XSHG",
-      "name": "春风动力",
-      "buyPrice": 185.56,
-      "currPrice": 216.28,
-      "gain": 16.56,
-      "isHolding": false,
-      "entryDate": "2025-05-29",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688719.XSHG",
-      "name": "爱科赛博",
-      "buyPrice": 38.23,
-      "currPrice": 44.34,
-      "gain": 15.98,
-      "isHolding": false,
-      "entryDate": "2025-06-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600919.XSHG",
-      "name": "江苏银行",
-      "buyPrice": 10.14,
-      "currPrice": 11.74,
-      "gain": 15.78,
-      "isHolding": false,
-      "entryDate": "2025-04-28",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002246.XSHE",
-      "name": "北化股份",
-      "buyPrice": 12.34,
-      "currPrice": 14.28,
-      "gain": 15.72,
-      "isHolding": false,
-      "entryDate": "2025-05-23",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "300476.XSHE",
-      "name": "胜宏科技",
-      "buyPrice": 101.34,
-      "currPrice": 116.61,
-      "gain": 15.07,
-      "isHolding": false,
-      "entryDate": "2025-06-05",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603365.XSHG",
-      "name": "水星家纺",
-      "buyPrice": 17.29,
-      "currPrice": 19.78,
-      "gain": 14.4,
-      "isHolding": false,
-      "entryDate": "2025-05-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "300943.XSHE",
-      "name": "春晖智控",
-      "buyPrice": 14.65,
-      "currPrice": 16.71,
-      "gain": 14.06,
-      "isHolding": false,
-      "entryDate": "2025-06-11",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "000893.XSHE",
-      "name": "亚钾国际",
-      "buyPrice": 27.32,
-      "currPrice": 31.09,
-      "gain": 13.8,
-      "isHolding": false,
-      "entryDate": "2025-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "603091.XSHG",
-      "name": "众鑫股份",
-      "buyPrice": 55.81,
-      "currPrice": 63.26,
-      "gain": 13.35,
-      "isHolding": false,
-      "entryDate": "2025-06-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "601838.XSHG",
-      "name": "成都银行",
-      "buyPrice": 17.91,
-      "currPrice": 20.2,
-      "gain": 12.79,
-      "isHolding": false,
-      "entryDate": "2025-05-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002807.XSHE",
-      "name": "江阴银行",
-      "buyPrice": 4.29,
-      "currPrice": 4.83,
-      "gain": 12.59,
-      "isHolding": false,
-      "entryDate": "2025-05-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688776.XSHG",
-      "name": "国光电气",
-      "buyPrice": 97.22,
-      "currPrice": 108.84,
-      "gain": 11.95,
-      "isHolding": false,
-      "entryDate": "2025-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688377.XSHG",
-      "name": "迪威尔",
-      "buyPrice": 22.17,
-      "currPrice": 24.81,
-      "gain": 11.91,
-      "isHolding": false,
-      "entryDate": "2025-06-03",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "301317.XSHE",
-      "name": "鑫磊股份",
-      "buyPrice": 27.29,
-      "currPrice": 30.51,
-      "gain": 11.8,
-      "isHolding": false,
-      "entryDate": "2025-05-08",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "002956.XSHE",
-      "name": "西麦食品",
-      "buyPrice": 20.36,
-      "currPrice": 22.5,
-      "gain": 10.51,
-      "isHolding": false,
-      "entryDate": "2025-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "603238.XSHG",
-      "name": "诺邦股份",
-      "buyPrice": 15.41,
-      "currPrice": 17.0,
-      "gain": 10.32,
-      "isHolding": false,
-      "entryDate": "2025-05-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "300702.XSHE",
-      "name": "天宇股份",
-      "buyPrice": 21.3,
-      "currPrice": 23.3,
-      "gain": 9.39,
-      "isHolding": false,
-      "entryDate": "2025-04-25",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688310.XSHG",
-      "name": "迈得医疗",
-      "buyPrice": 12.9,
-      "currPrice": 14.11,
-      "gain": 9.38,
-      "isHolding": false,
-      "entryDate": "2025-05-20",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "301498.XSHE",
-      "name": "乖宝宠物",
-      "buyPrice": 103.23,
-      "currPrice": 112.83,
-      "gain": 9.3,
-      "isHolding": false,
-      "entryDate": "2025-04-23",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603087.XSHG",
-      "name": "甘李药业",
-      "buyPrice": 49.78,
-      "currPrice": 54.35,
-      "gain": 9.18,
-      "isHolding": false,
-      "entryDate": "2025-04-25",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603379.XSHG",
-      "name": "三美股份",
-      "buyPrice": 44.5,
-      "currPrice": 48.46,
-      "gain": 8.9,
-      "isHolding": false,
-      "entryDate": "2025-04-29",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600184.XSHG",
-      "name": "光电股份",
-      "buyPrice": 13.49,
-      "currPrice": 14.66,
-      "gain": 8.67,
-      "isHolding": false,
-      "entryDate": "2025-04-29",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688488.XSHG",
-      "name": "艾迪药业",
-      "buyPrice": 12.48,
-      "currPrice": 13.54,
-      "gain": 8.49,
-      "isHolding": false,
-      "entryDate": "2025-05-29",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603988.XSHG",
-      "name": "中电电机",
-      "buyPrice": 25.56,
-      "currPrice": 27.65,
-      "gain": 8.18,
-      "isHolding": false,
-      "entryDate": "2025-06-13",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002294.XSHE",
-      "name": "信立泰",
-      "buyPrice": 45.05,
-      "currPrice": 48.56,
-      "gain": 7.79,
-      "isHolding": false,
-      "entryDate": "2025-05-23",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002595.XSHE",
-      "name": "豪迈科技",
-      "buyPrice": 58.62,
-      "currPrice": 63.1,
-      "gain": 7.64,
-      "isHolding": false,
-      "entryDate": "2025-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "603067.XSHG",
-      "name": "振华股份",
-      "buyPrice": 19.39,
-      "currPrice": 20.82,
-      "gain": 7.37,
-      "isHolding": false,
-      "entryDate": "2025-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "688269.XSHG",
-      "name": "凯立新材",
-      "buyPrice": 30.88,
-      "currPrice": 33.15,
-      "gain": 7.35,
-      "isHolding": false,
-      "entryDate": "2025-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "601077.XSHG",
-      "name": "渝农商行",
-      "buyPrice": 6.76,
-      "currPrice": 7.25,
-      "gain": 7.25,
-      "isHolding": false,
-      "entryDate": "2025-04-24",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "601187.XSHG",
-      "name": "厦门银行",
-      "buyPrice": 6.1,
-      "currPrice": 6.53,
-      "gain": 7.05,
-      "isHolding": false,
-      "entryDate": "2025-04-24",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002311.XSHE",
-      "name": "海大集团",
-      "buyPrice": 54.77,
-      "currPrice": 58.48,
-      "gain": 6.77,
-      "isHolding": false,
-      "entryDate": "2025-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "002174.XSHE",
-      "name": "游族网络",
-      "buyPrice": 11.71,
-      "currPrice": 12.49,
-      "gain": 6.66,
-      "isHolding": false,
-      "entryDate": "2025-05-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002966.XSHE",
-      "name": "苏州银行",
-      "buyPrice": 8.12,
-      "currPrice": 8.66,
-      "gain": 6.65,
-      "isHolding": false,
-      "entryDate": "2025-04-28",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "601166.XSHG",
-      "name": "兴业银行",
-      "buyPrice": 22.51,
-      "currPrice": 23.95,
-      "gain": 6.4,
-      "isHolding": false,
-      "entryDate": "2025-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "601577.XSHG",
-      "name": "长沙银行",
-      "buyPrice": 9.54,
-      "currPrice": 10.13,
-      "gain": 6.18,
-      "isHolding": false,
-      "entryDate": "2025-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600486.XSHG",
-      "name": "扬农化工",
-      "buyPrice": 56.87,
-      "currPrice": 60.32,
-      "gain": 6.07,
-      "isHolding": false,
-      "entryDate": "2025-06-03",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603444.XSHG",
-      "name": "吉比特",
-      "buyPrice": 269.9,
-      "currPrice": 286.1,
-      "gain": 6.0,
-      "isHolding": false,
-      "entryDate": "2025-06-03",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "000426.XSHE",
-      "name": "兴业银锡",
-      "buyPrice": 15.4,
-      "currPrice": 16.29,
-      "gain": 5.78,
-      "isHolding": false,
-      "entryDate": "2025-06-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600160.XSHG",
-      "name": "巨化股份",
-      "buyPrice": 27.04,
-      "currPrice": 28.6,
-      "gain": 5.77,
-      "isHolding": false,
-      "entryDate": "2025-06-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002384.XSHE",
-      "name": "东山精密",
-      "buyPrice": 34.58,
-      "currPrice": 36.57,
-      "gain": 5.75,
-      "isHolding": false,
-      "entryDate": "2025-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "300065.XSHE",
-      "name": "海兰信",
-      "buyPrice": 16.32,
-      "currPrice": 17.23,
-      "gain": 5.58,
-      "isHolding": false,
-      "entryDate": "2025-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "600866.XSHG",
-      "name": "星湖科技",
-      "buyPrice": 7.1,
-      "currPrice": 7.49,
-      "gain": 5.49,
-      "isHolding": false,
-      "entryDate": "2025-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "002624.XSHE",
-      "name": "完美世界",
-      "buyPrice": 14.59,
-      "currPrice": 15.38,
-      "gain": 5.41,
-      "isHolding": false,
-      "entryDate": "2025-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "603619.XSHG",
-      "name": "中曼石油",
-      "buyPrice": 20.53,
-      "currPrice": 21.63,
-      "gain": 5.36,
-      "isHolding": false,
-      "entryDate": "2025-06-13",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600499.XSHG",
-      "name": "科达制造",
-      "buyPrice": 9.43,
-      "currPrice": 9.91,
-      "gain": 5.09,
-      "isHolding": false,
-      "entryDate": "2025-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "601128.XSHG",
-      "name": "常熟银行",
-      "buyPrice": 7.21,
-      "currPrice": 7.57,
-      "gain": 4.99,
-      "isHolding": false,
-      "entryDate": "2025-05-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002839.XSHE",
-      "name": "张家港行",
-      "buyPrice": 4.4,
-      "currPrice": 4.61,
-      "gain": 4.77,
-      "isHolding": false,
-      "entryDate": "2025-05-13",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002838.XSHE",
-      "name": "道恩股份",
-      "buyPrice": 17.2,
-      "currPrice": 18.01,
-      "gain": 4.71,
-      "isHolding": false,
-      "entryDate": "2025-05-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
       "code": "600353.XSHG",
       "name": "旭光电子",
       "buyPrice": 12.36,
@@ -4163,246 +3574,6 @@
       "gain": 4.69,
       "isHolding": false,
       "entryDate": "2025-06-11",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688543.XSHG",
-      "name": "国科军工",
-      "buyPrice": 47.76,
-      "currPrice": 49.91,
-      "gain": 4.5,
-      "isHolding": false,
-      "entryDate": "2025-05-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688203.XSHG",
-      "name": "海正生材",
-      "buyPrice": 12.7,
-      "currPrice": 13.27,
-      "gain": 4.49,
-      "isHolding": false,
-      "entryDate": "2025-06-13",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "300958.XSHE",
-      "name": "建工修复",
-      "buyPrice": 12.72,
-      "currPrice": 13.28,
-      "gain": 4.4,
-      "isHolding": false,
-      "entryDate": "2025-06-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600875.XSHG",
-      "name": "东方电气",
-      "buyPrice": 16.14,
-      "currPrice": 16.83,
-      "gain": 4.28,
-      "isHolding": false,
-      "entryDate": "2025-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "601665.XSHG",
-      "name": "齐鲁银行",
-      "buyPrice": 6.29,
-      "currPrice": 6.55,
-      "gain": 4.13,
-      "isHolding": false,
-      "entryDate": "2025-04-24",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "300850.XSHE",
-      "name": "新强联",
-      "buyPrice": 35.11,
-      "currPrice": 36.39,
-      "gain": 3.65,
-      "isHolding": false,
-      "entryDate": "2025-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603969.XSHG",
-      "name": "银龙股份",
-      "buyPrice": 6.92,
-      "currPrice": 7.17,
-      "gain": 3.61,
-      "isHolding": false,
-      "entryDate": "2025-05-15",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603727.XSHG",
-      "name": "博迈科",
-      "buyPrice": 14.69,
-      "currPrice": 15.2,
-      "gain": 3.47,
-      "isHolding": false,
-      "entryDate": "2025-06-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "000070.XSHE",
-      "name": "特发信息",
-      "buyPrice": 7.01,
-      "currPrice": 7.25,
-      "gain": 3.42,
-      "isHolding": false,
-      "entryDate": "2025-06-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603306.XSHG",
-      "name": "华懋科技",
-      "buyPrice": 41.65,
-      "currPrice": 43.07,
-      "gain": 3.41,
-      "isHolding": false,
-      "entryDate": "2025-05-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600673.XSHG",
-      "name": "东阳光",
-      "buyPrice": 11.25,
-      "currPrice": 11.63,
-      "gain": 3.38,
-      "isHolding": false,
-      "entryDate": "2025-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002683.XSHE",
-      "name": "广东宏大",
-      "buyPrice": 31.9,
-      "currPrice": 32.93,
-      "gain": 3.23,
-      "isHolding": false,
-      "entryDate": "2025-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "603083.XSHG",
-      "name": "剑桥科技",
-      "buyPrice": 45.8,
-      "currPrice": 47.1,
-      "gain": 2.84,
-      "isHolding": false,
-      "entryDate": "2025-06-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600350.XSHG",
-      "name": "山东高速",
-      "buyPrice": 10.76,
-      "currPrice": 11.03,
-      "gain": 2.51,
-      "isHolding": false,
-      "entryDate": "2025-04-29",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600059.XSHG",
-      "name": "古越龙山",
-      "buyPrice": 10.31,
-      "currPrice": 10.56,
-      "gain": 2.42,
-      "isHolding": false,
-      "entryDate": "2025-05-23",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600900.XSHG",
-      "name": "长江电力",
-      "buyPrice": 30.08,
-      "currPrice": 30.8,
-      "gain": 2.39,
-      "isHolding": false,
-      "entryDate": "2025-05-14",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:创业板,科创50破MA20"
-    },
-    {
-      "code": "301377.XSHE",
-      "name": "鼎泰高科",
-      "buyPrice": 30.76,
-      "currPrice": 31.49,
-      "gain": 2.37,
-      "isHolding": false,
-      "entryDate": "2025-06-05",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002943.XSHE",
-      "name": "宇晶股份",
-      "buyPrice": 25.21,
-      "currPrice": 25.79,
-      "gain": 2.3,
-      "isHolding": false,
-      "entryDate": "2025-04-25",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002690.XSHE",
-      "name": "美亚光电",
-      "buyPrice": 17.05,
-      "currPrice": 17.42,
-      "gain": 2.17,
-      "isHolding": false,
-      "entryDate": "2025-05-19",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002658.XSHE",
-      "name": "雪迪龙",
-      "buyPrice": 7.03,
-      "currPrice": 7.18,
-      "gain": 2.13,
-      "isHolding": false,
-      "entryDate": "2025-05-19",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603308.XSHG",
-      "name": "应流股份",
-      "buyPrice": 22.21,
-      "currPrice": 22.64,
-      "gain": 1.94,
-      "isHolding": false,
-      "entryDate": "2025-06-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "300973.XSHE",
-      "name": "立高食品",
-      "buyPrice": 47.53,
-      "currPrice": 48.45,
-      "gain": 1.94,
-      "isHolding": false,
-      "entryDate": "2025-05-15",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "601033.XSHG",
-      "name": "永兴股份",
-      "buyPrice": 15.84,
-      "currPrice": 16.07,
-      "gain": 1.45,
-      "isHolding": false,
-      "entryDate": "2025-05-20",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "301338.XSHE",
-      "name": "凯格精机",
-      "buyPrice": 40.93,
-      "currPrice": 41.51,
-      "gain": 1.42,
-      "isHolding": false,
-      "entryDate": "2025-06-16",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
@@ -4416,126 +3587,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
     },
     {
-      "code": "688192.XSHG",
-      "name": "迪哲医药",
-      "buyPrice": 60.45,
-      "currPrice": 60.83,
-      "gain": 0.63,
-      "isHolding": false,
-      "entryDate": "2025-05-29",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600547.XSHG",
-      "name": "山东黄金",
-      "buyPrice": 31.84,
-      "currPrice": 32.0,
-      "gain": 0.5,
-      "isHolding": false,
-      "entryDate": "2025-06-13",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "000657.XSHE",
-      "name": "中钨高新",
-      "buyPrice": 11.98,
-      "currPrice": 12.03,
-      "gain": 0.42,
-      "isHolding": false,
-      "entryDate": "2025-06-04",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600036.XSHG",
-      "name": "招商银行",
-      "buyPrice": 45.75,
-      "currPrice": 45.9,
-      "gain": 0.33,
-      "isHolding": false,
-      "entryDate": "2025-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "301155.XSHE",
-      "name": "海力风电",
-      "buyPrice": 71.24,
-      "currPrice": 71.35,
-      "gain": 0.15,
-      "isHolding": false,
-      "entryDate": "2025-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "301080.XSHE",
-      "name": "百普赛斯",
-      "buyPrice": 55.21,
-      "currPrice": 55.23,
-      "gain": 0.04,
-      "isHolding": false,
-      "entryDate": "2025-06-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688506.XSHG",
-      "name": "百利天恒",
-      "buyPrice": 305.32,
-      "currPrice": 305.0,
-      "gain": -0.1,
-      "isHolding": false,
-      "entryDate": "2025-04-22",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "600489.XSHG",
-      "name": "中金黄金",
-      "buyPrice": 14.66,
-      "currPrice": 14.63,
-      "gain": -0.2,
-      "isHolding": false,
-      "entryDate": "2025-06-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002014.XSHE",
-      "name": "永新股份",
-      "buyPrice": 11.88,
-      "currPrice": 11.85,
-      "gain": -0.25,
-      "isHolding": false,
-      "entryDate": "2025-05-23",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002946.XSHE",
-      "name": "新乳业",
-      "buyPrice": 18.54,
-      "currPrice": 18.48,
-      "gain": -0.32,
-      "isHolding": false,
-      "entryDate": "2025-05-19",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688266.XSHG",
-      "name": "泽璟制药",
-      "buyPrice": 115.5,
-      "currPrice": 114.99,
-      "gain": -0.44,
-      "isHolding": false,
-      "entryDate": "2025-06-03",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "301393.XSHE",
-      "name": "昊帆生物",
-      "buyPrice": 52.16,
-      "currPrice": 51.9,
-      "gain": -0.5,
-      "isHolding": false,
-      "entryDate": "2025-05-20",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
       "code": "300627.XSHE",
       "name": "华测导航",
       "buyPrice": 45.99,
@@ -4543,16 +3594,6 @@
       "gain": -0.57,
       "isHolding": false,
       "entryDate": "2025-06-03",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002545.XSHE",
-      "name": "东方铁塔",
-      "buyPrice": 8.74,
-      "currPrice": 8.69,
-      "gain": -0.57,
-      "isHolding": false,
-      "entryDate": "2025-06-12",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
@@ -4566,256 +3607,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
-      "code": "000831.XSHE",
-      "name": "中国稀土",
-      "buyPrice": 35.66,
-      "currPrice": 35.4,
-      "gain": -0.73,
-      "isHolding": false,
-      "entryDate": "2025-06-04",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603799.XSHG",
-      "name": "华友钴业",
-      "buyPrice": 36.44,
-      "currPrice": 36.16,
-      "gain": -0.77,
-      "isHolding": false,
-      "entryDate": "2025-06-17",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600096.XSHG",
-      "name": "云天化",
-      "buyPrice": 22.8,
-      "currPrice": 22.62,
-      "gain": -0.79,
-      "isHolding": false,
-      "entryDate": "2025-06-13",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002318.XSHE",
-      "name": "久立特材",
-      "buyPrice": 24.14,
-      "currPrice": 23.91,
-      "gain": -0.95,
-      "isHolding": false,
-      "entryDate": "2025-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "002539.XSHE",
-      "name": "云图控股",
-      "buyPrice": 8.95,
-      "currPrice": 8.86,
-      "gain": -1.01,
-      "isHolding": false,
-      "entryDate": "2025-06-11",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603766.XSHG",
-      "name": "隆鑫通用",
-      "buyPrice": 12.76,
-      "currPrice": 12.56,
-      "gain": -1.57,
-      "isHolding": false,
-      "entryDate": "2025-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "002768.XSHE",
-      "name": "国恩股份",
-      "buyPrice": 25.96,
-      "currPrice": 25.54,
-      "gain": -1.62,
-      "isHolding": false,
-      "entryDate": "2025-04-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
-    },
-    {
-      "code": "688002.XSHG",
-      "name": "睿创微纳",
-      "buyPrice": 63.85,
-      "currPrice": 62.76,
-      "gain": -1.71,
-      "isHolding": false,
-      "entryDate": "2025-06-05",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600323.XSHG",
-      "name": "瀚蓝环境",
-      "buyPrice": 25.17,
-      "currPrice": 24.72,
-      "gain": -1.79,
-      "isHolding": false,
-      "entryDate": "2025-05-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688623.XSHG",
-      "name": "双元科技",
-      "buyPrice": 64.6,
-      "currPrice": 63.44,
-      "gain": -1.8,
-      "isHolding": false,
-      "entryDate": "2025-05-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600276.XSHG",
-      "name": "恒瑞医药",
-      "buyPrice": 52.79,
-      "currPrice": 51.8,
-      "gain": -1.88,
-      "isHolding": false,
-      "entryDate": "2025-05-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "000963.XSHE",
-      "name": "华东医药",
-      "buyPrice": 42.05,
-      "currPrice": 41.26,
-      "gain": -1.88,
-      "isHolding": false,
-      "entryDate": "2025-05-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688519.XSHG",
-      "name": "南亚新材",
-      "buyPrice": 40.05,
-      "currPrice": 39.28,
-      "gain": -1.92,
-      "isHolding": false,
-      "entryDate": "2025-04-28",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002609.XSHE",
-      "name": "捷顺科技",
-      "buyPrice": 10.87,
-      "currPrice": 10.66,
-      "gain": -1.93,
-      "isHolding": false,
-      "entryDate": "2025-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "688578.XSHG",
-      "name": "艾力斯",
-      "buyPrice": 95.6,
-      "currPrice": 93.74,
-      "gain": -1.95,
-      "isHolding": false,
-      "entryDate": "2025-05-29",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600392.XSHG",
-      "name": "盛和资源",
-      "buyPrice": 13.6,
-      "currPrice": 13.33,
-      "gain": -1.99,
-      "isHolding": false,
-      "entryDate": "2025-06-11",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002749.XSHE",
-      "name": "国光股份",
-      "buyPrice": 15.22,
-      "currPrice": 14.88,
-      "gain": -2.23,
-      "isHolding": false,
-      "entryDate": "2025-06-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688196.XSHG",
-      "name": "卓越新能",
-      "buyPrice": 47.44,
-      "currPrice": 46.23,
-      "gain": -2.55,
-      "isHolding": false,
-      "entryDate": "2025-06-13",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "601601.XSHG",
-      "name": "中国太保",
-      "buyPrice": 36.49,
-      "currPrice": 35.52,
-      "gain": -2.66,
-      "isHolding": false,
-      "entryDate": "2025-06-16",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "301108.XSHE",
-      "name": "洁雅股份",
-      "buyPrice": 33.91,
-      "currPrice": 32.99,
-      "gain": -2.71,
-      "isHolding": false,
-      "entryDate": "2025-05-15",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002588.XSHE",
-      "name": "史丹利",
-      "buyPrice": 9.38,
-      "currPrice": 9.11,
-      "gain": -2.88,
-      "isHolding": false,
-      "entryDate": "2025-06-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "000729.XSHE",
-      "name": "燕京啤酒",
-      "buyPrice": 13.4,
-      "currPrice": 13.01,
-      "gain": -2.91,
-      "isHolding": false,
-      "entryDate": "2025-05-20",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688636.XSHG",
-      "name": "智明达",
-      "buyPrice": 29.79,
-      "currPrice": 28.91,
-      "gain": -2.95,
-      "isHolding": false,
-      "entryDate": "2025-06-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600111.XSHG",
-      "name": "北方稀土",
-      "buyPrice": 25.51,
-      "currPrice": 24.73,
-      "gain": -3.06,
-      "isHolding": false,
-      "entryDate": "2025-06-11",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002237.XSHE",
-      "name": "恒邦股份",
-      "buyPrice": 12.49,
-      "currPrice": 12.09,
-      "gain": -3.2,
-      "isHolding": false,
-      "entryDate": "2025-06-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
       "code": "600988.XSHG",
       "name": "赤峰黄金",
       "buyPrice": 29.17,
@@ -4826,26 +3617,6 @@
       "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
-      "code": "601899.XSHG",
-      "name": "紫金矿业",
-      "buyPrice": 19.44,
-      "currPrice": 18.75,
-      "gain": -3.55,
-      "isHolding": false,
-      "entryDate": "2025-06-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002517.XSHE",
-      "name": "恺英网络",
-      "buyPrice": 17.62,
-      "currPrice": 16.99,
-      "gain": -3.58,
-      "isHolding": false,
-      "entryDate": "2025-06-12",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
       "code": "688258.XSHG",
       "name": "卓易信息",
       "buyPrice": 49.98,
@@ -4853,66 +3624,6 @@
       "gain": -3.76,
       "isHolding": false,
       "entryDate": "2025-06-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688103.XSHG",
-      "name": "国力电子",
-      "buyPrice": 60.46,
-      "currPrice": 58.18,
-      "gain": -3.77,
-      "isHolding": false,
-      "entryDate": "2025-06-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688531.XSHG",
-      "name": "日联科技",
-      "buyPrice": 71.58,
-      "currPrice": 68.8,
-      "gain": -3.88,
-      "isHolding": false,
-      "entryDate": "2025-04-25",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "002488.XSHE",
-      "name": "金固股份",
-      "buyPrice": 14.27,
-      "currPrice": 13.7,
-      "gain": -3.99,
-      "isHolding": false,
-      "entryDate": "2025-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "600741.XSHG",
-      "name": "华域汽车",
-      "buyPrice": 18.56,
-      "currPrice": 17.78,
-      "gain": -4.2,
-      "isHolding": false,
-      "entryDate": "2025-05-14",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:创业板,科创50破MA20"
-    },
-    {
-      "code": "002714.XSHE",
-      "name": "牧原股份",
-      "buyPrice": 44.39,
-      "currPrice": 42.51,
-      "gain": -4.24,
-      "isHolding": false,
-      "entryDate": "2025-06-11",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600941.XSHG",
-      "name": "中国移动",
-      "buyPrice": 117.52,
-      "currPrice": 112.39,
-      "gain": -4.37,
-      "isHolding": false,
-      "entryDate": "2025-06-03",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
@@ -4946,16 +3657,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
-      "code": "600352.XSHG",
-      "name": "浙江龙盛",
-      "buyPrice": 10.59,
-      "currPrice": 10.1,
-      "gain": -4.63,
-      "isHolding": false,
-      "entryDate": "2025-06-09",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
       "code": "002422.XSHE",
       "name": "科伦药业",
       "buyPrice": 36.94,
@@ -4963,36 +3664,6 @@
       "gain": -4.63,
       "isHolding": false,
       "entryDate": "2025-05-20",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "688311.XSHG",
-      "name": "盟升电子",
-      "buyPrice": 41.38,
-      "currPrice": 39.37,
-      "gain": -4.86,
-      "isHolding": false,
-      "entryDate": "2025-06-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "001328.XSHE",
-      "name": "登康口腔",
-      "buyPrice": 49.64,
-      "currPrice": 47.22,
-      "gain": -4.88,
-      "isHolding": false,
-      "entryDate": "2025-05-07",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
-    },
-    {
-      "code": "300731.XSHE",
-      "name": "科创新源",
-      "buyPrice": 27.86,
-      "currPrice": 26.46,
-      "gain": -5.03,
-      "isHolding": false,
-      "entryDate": "2025-06-05",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
@@ -5006,26 +3677,6 @@
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
-      "code": "002001.XSHE",
-      "name": "新和成",
-      "buyPrice": 22.79,
-      "currPrice": 21.53,
-      "gain": -5.53,
-      "isHolding": false,
-      "entryDate": "2025-05-15",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "301216.XSHE",
-      "name": "万凯新材",
-      "buyPrice": 13.18,
-      "currPrice": 12.41,
-      "gain": -5.84,
-      "isHolding": false,
-      "entryDate": "2025-04-29",
-      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
-    },
-    {
       "code": "603590.XSHG",
       "name": "康辰药业",
       "buyPrice": 32.8,
@@ -5034,16 +3685,6 @@
       "isHolding": false,
       "entryDate": "2025-06-09",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "600757.XSHG",
-      "name": "长江传媒",
-      "buyPrice": 9.71,
-      "currPrice": 9.12,
-      "gain": -6.08,
-      "isHolding": false,
-      "entryDate": "2025-05-06",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
     },
     {
       "code": "600132.XSHG",
@@ -5063,26 +3704,6 @@
       "gain": -6.51,
       "isHolding": false,
       "entryDate": "2025-06-10",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "000429.XSHE",
-      "name": "粤高速A",
-      "buyPrice": 14.58,
-      "currPrice": 13.63,
-      "gain": -6.52,
-      "isHolding": false,
-      "entryDate": "2025-05-21",
-      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
-    },
-    {
-      "code": "603181.XSHG",
-      "name": "皇马科技",
-      "buyPrice": 12.6,
-      "currPrice": 11.74,
-      "gain": -6.83,
-      "isHolding": false,
-      "entryDate": "2025-05-12",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
     {
@@ -5133,6 +3754,1526 @@
       "gain": -7.65,
       "isHolding": false,
       "entryDate": "2025-06-11",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "301225.XSHE",
+      "name": "恒勃股份",
+      "buyPrice": 41.5,
+      "currPrice": 79.05,
+      "gain": 90.48,
+      "isHolding": false,
+      "entryDate": "2025-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "002250.XSHE",
+      "name": "联化科技",
+      "buyPrice": 8.36,
+      "currPrice": 12.9,
+      "gain": 54.31,
+      "isHolding": true,
+      "entryDate": "2025-05-29",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002602.XSHE",
+      "name": "世纪华通",
+      "buyPrice": 7.09,
+      "currPrice": 10.43,
+      "gain": 47.11,
+      "isHolding": true,
+      "entryDate": "2025-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "301345.XSHE",
+      "name": "涛涛车业",
+      "buyPrice": 69.25,
+      "currPrice": 97.65,
+      "gain": 41.01,
+      "isHolding": false,
+      "entryDate": "2025-05-29",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002731.XSHE",
+      "name": "ST萃华",
+      "buyPrice": 10.8,
+      "currPrice": 15.09,
+      "gain": 39.72,
+      "isHolding": false,
+      "entryDate": "2025-05-20",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002558.XSHE",
+      "name": "巨人网络",
+      "buyPrice": 15.46,
+      "currPrice": 21.41,
+      "gain": 38.49,
+      "isHolding": false,
+      "entryDate": "2025-06-03",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688129.XSHG",
+      "name": "东来技术",
+      "buyPrice": 21.49,
+      "currPrice": 27.5,
+      "gain": 27.97,
+      "isHolding": false,
+      "entryDate": "2025-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "603011.XSHG",
+      "name": "合锻智能",
+      "buyPrice": 12.02,
+      "currPrice": 15.35,
+      "gain": 27.7,
+      "isHolding": false,
+      "entryDate": "2025-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600259.XSHG",
+      "name": "中稀有色",
+      "buyPrice": 42.53,
+      "currPrice": 52.74,
+      "gain": 24.01,
+      "isHolding": false,
+      "entryDate": "2025-05-15",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "000506.XSHE",
+      "name": "招金黄金",
+      "buyPrice": 7.47,
+      "currPrice": 9.22,
+      "gain": 23.43,
+      "isHolding": false,
+      "entryDate": "2025-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "300191.XSHE",
+      "name": "潜能恒信",
+      "buyPrice": 17.74,
+      "currPrice": 21.75,
+      "gain": 22.6,
+      "isHolding": false,
+      "entryDate": "2025-06-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002891.XSHE",
+      "name": "中宠股份",
+      "buyPrice": 48.75,
+      "currPrice": 58.92,
+      "gain": 20.86,
+      "isHolding": false,
+      "entryDate": "2025-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "688183.XSHG",
+      "name": "生益电子",
+      "buyPrice": 38.27,
+      "currPrice": 45.82,
+      "gain": 19.73,
+      "isHolding": false,
+      "entryDate": "2025-06-05",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600919.XSHG",
+      "name": "江苏银行",
+      "buyPrice": 10.14,
+      "currPrice": 11.94,
+      "gain": 17.75,
+      "isHolding": false,
+      "entryDate": "2025-04-28",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688668.XSHG",
+      "name": "鼎通科技",
+      "buyPrice": 53.15,
+      "currPrice": 61.87,
+      "gain": 16.41,
+      "isHolding": false,
+      "entryDate": "2025-06-04",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002345.XSHE",
+      "name": "潮宏基",
+      "buyPrice": 12.11,
+      "currPrice": 14.08,
+      "gain": 16.27,
+      "isHolding": false,
+      "entryDate": "2025-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "600562.XSHG",
+      "name": "国睿科技",
+      "buyPrice": 24.67,
+      "currPrice": 28.62,
+      "gain": 16.01,
+      "isHolding": false,
+      "entryDate": "2025-05-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "300765.XSHE",
+      "name": "石药创新",
+      "buyPrice": 45.75,
+      "currPrice": 53.06,
+      "gain": 15.98,
+      "isHolding": false,
+      "entryDate": "2025-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "002807.XSHE",
+      "name": "江阴银行",
+      "buyPrice": 4.29,
+      "currPrice": 4.97,
+      "gain": 15.85,
+      "isHolding": false,
+      "entryDate": "2025-05-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "601069.XSHG",
+      "name": "西部黄金",
+      "buyPrice": 18.6,
+      "currPrice": 21.54,
+      "gain": 15.81,
+      "isHolding": false,
+      "entryDate": "2025-05-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002246.XSHE",
+      "name": "北化股份",
+      "buyPrice": 12.34,
+      "currPrice": 14.18,
+      "gain": 14.91,
+      "isHolding": false,
+      "entryDate": "2025-05-23",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688428.XSHG",
+      "name": "诺诚健华",
+      "buyPrice": 20.88,
+      "currPrice": 23.85,
+      "gain": 14.22,
+      "isHolding": false,
+      "entryDate": "2025-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "601187.XSHG",
+      "name": "厦门银行",
+      "buyPrice": 6.1,
+      "currPrice": 6.93,
+      "gain": 13.61,
+      "isHolding": false,
+      "entryDate": "2025-04-24",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "601838.XSHG",
+      "name": "成都银行",
+      "buyPrice": 17.91,
+      "currPrice": 20.3,
+      "gain": 13.34,
+      "isHolding": true,
+      "entryDate": "2025-05-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "300798.XSHE",
+      "name": "锦鸡股份",
+      "buyPrice": 8.81,
+      "currPrice": 9.98,
+      "gain": 13.28,
+      "isHolding": false,
+      "entryDate": "2025-06-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603683.XSHG",
+      "name": "晶华新材",
+      "buyPrice": 13.0,
+      "currPrice": 14.71,
+      "gain": 13.15,
+      "isHolding": false,
+      "entryDate": "2025-05-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603129.XSHG",
+      "name": "春风动力",
+      "buyPrice": 185.56,
+      "currPrice": 209.6,
+      "gain": 12.96,
+      "isHolding": false,
+      "entryDate": "2025-05-29",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688310.XSHG",
+      "name": "迈得医疗",
+      "buyPrice": 12.9,
+      "currPrice": 14.49,
+      "gain": 12.33,
+      "isHolding": false,
+      "entryDate": "2025-05-20",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603699.XSHG",
+      "name": "纽威股份",
+      "buyPrice": 28.5,
+      "currPrice": 32.0,
+      "gain": 12.28,
+      "isHolding": false,
+      "entryDate": "2025-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688302.XSHG",
+      "name": "海创药业",
+      "buyPrice": 43.0,
+      "currPrice": 48.27,
+      "gain": 12.26,
+      "isHolding": false,
+      "entryDate": "2025-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "300476.XSHE",
+      "name": "胜宏科技",
+      "buyPrice": 101.34,
+      "currPrice": 113.33,
+      "gain": 11.83,
+      "isHolding": false,
+      "entryDate": "2025-06-05",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603619.XSHG",
+      "name": "中曼石油",
+      "buyPrice": 20.53,
+      "currPrice": 22.79,
+      "gain": 11.01,
+      "isHolding": false,
+      "entryDate": "2025-06-13",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "601077.XSHG",
+      "name": "渝农商行",
+      "buyPrice": 6.76,
+      "currPrice": 7.5,
+      "gain": 10.95,
+      "isHolding": false,
+      "entryDate": "2025-04-24",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603238.XSHG",
+      "name": "诺邦股份",
+      "buyPrice": 15.41,
+      "currPrice": 16.93,
+      "gain": 9.86,
+      "isHolding": false,
+      "entryDate": "2025-05-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603365.XSHG",
+      "name": "水星家纺",
+      "buyPrice": 17.29,
+      "currPrice": 18.95,
+      "gain": 9.6,
+      "isHolding": false,
+      "entryDate": "2025-05-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688203.XSHG",
+      "name": "海正生材",
+      "buyPrice": 12.7,
+      "currPrice": 13.87,
+      "gain": 9.21,
+      "isHolding": false,
+      "entryDate": "2025-06-13",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "000893.XSHE",
+      "name": "亚钾国际",
+      "buyPrice": 27.32,
+      "currPrice": 29.79,
+      "gain": 9.04,
+      "isHolding": false,
+      "entryDate": "2025-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "301317.XSHE",
+      "name": "鑫磊股份",
+      "buyPrice": 27.29,
+      "currPrice": 29.65,
+      "gain": 8.65,
+      "isHolding": false,
+      "entryDate": "2025-05-08",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "603087.XSHG",
+      "name": "甘李药业",
+      "buyPrice": 49.78,
+      "currPrice": 54.0,
+      "gain": 8.48,
+      "isHolding": false,
+      "entryDate": "2025-04-25",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002311.XSHE",
+      "name": "海大集团",
+      "buyPrice": 54.77,
+      "currPrice": 59.11,
+      "gain": 7.92,
+      "isHolding": false,
+      "entryDate": "2025-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "002294.XSHE",
+      "name": "信立泰",
+      "buyPrice": 45.05,
+      "currPrice": 48.4,
+      "gain": 7.44,
+      "isHolding": false,
+      "entryDate": "2025-05-23",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688488.XSHG",
+      "name": "艾迪药业",
+      "buyPrice": 12.48,
+      "currPrice": 13.38,
+      "gain": 7.21,
+      "isHolding": false,
+      "entryDate": "2025-05-29",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688377.XSHG",
+      "name": "迪威尔",
+      "buyPrice": 22.17,
+      "currPrice": 23.76,
+      "gain": 7.17,
+      "isHolding": false,
+      "entryDate": "2025-06-03",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002966.XSHE",
+      "name": "苏州银行",
+      "buyPrice": 8.12,
+      "currPrice": 8.7,
+      "gain": 7.14,
+      "isHolding": false,
+      "entryDate": "2025-04-28",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002384.XSHE",
+      "name": "东山精密",
+      "buyPrice": 34.58,
+      "currPrice": 37.0,
+      "gain": 7.0,
+      "isHolding": false,
+      "entryDate": "2025-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "300702.XSHE",
+      "name": "天宇股份",
+      "buyPrice": 21.3,
+      "currPrice": 22.78,
+      "gain": 6.95,
+      "isHolding": false,
+      "entryDate": "2025-04-25",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "601577.XSHG",
+      "name": "长沙银行",
+      "buyPrice": 9.54,
+      "currPrice": 10.19,
+      "gain": 6.81,
+      "isHolding": false,
+      "entryDate": "2025-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688269.XSHG",
+      "name": "凯立新材",
+      "buyPrice": 30.88,
+      "currPrice": 32.97,
+      "gain": 6.77,
+      "isHolding": false,
+      "entryDate": "2025-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "002839.XSHE",
+      "name": "张家港行",
+      "buyPrice": 4.4,
+      "currPrice": 4.68,
+      "gain": 6.36,
+      "isHolding": false,
+      "entryDate": "2025-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "601128.XSHG",
+      "name": "常熟银行",
+      "buyPrice": 7.21,
+      "currPrice": 7.66,
+      "gain": 6.24,
+      "isHolding": false,
+      "entryDate": "2025-05-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600184.XSHG",
+      "name": "光电股份",
+      "buyPrice": 13.49,
+      "currPrice": 14.27,
+      "gain": 5.78,
+      "isHolding": false,
+      "entryDate": "2025-04-29",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "601166.XSHG",
+      "name": "兴业银行",
+      "buyPrice": 22.51,
+      "currPrice": 23.76,
+      "gain": 5.55,
+      "isHolding": false,
+      "entryDate": "2025-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002943.XSHE",
+      "name": "宇晶股份",
+      "buyPrice": 25.21,
+      "currPrice": 26.56,
+      "gain": 5.36,
+      "isHolding": false,
+      "entryDate": "2025-04-25",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603067.XSHG",
+      "name": "振华股份",
+      "buyPrice": 19.39,
+      "currPrice": 20.28,
+      "gain": 4.59,
+      "isHolding": false,
+      "entryDate": "2025-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "002956.XSHE",
+      "name": "西麦食品",
+      "buyPrice": 20.36,
+      "currPrice": 21.29,
+      "gain": 4.57,
+      "isHolding": false,
+      "entryDate": "2025-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "688543.XSHG",
+      "name": "国科军工",
+      "buyPrice": 47.76,
+      "currPrice": 49.93,
+      "gain": 4.54,
+      "isHolding": false,
+      "entryDate": "2025-05-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "601665.XSHG",
+      "name": "齐鲁银行",
+      "buyPrice": 6.29,
+      "currPrice": 6.57,
+      "gain": 4.45,
+      "isHolding": false,
+      "entryDate": "2025-04-24",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002595.XSHE",
+      "name": "豪迈科技",
+      "buyPrice": 58.62,
+      "currPrice": 61.17,
+      "gain": 4.35,
+      "isHolding": false,
+      "entryDate": "2025-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "603799.XSHG",
+      "name": "华友钴业",
+      "buyPrice": 36.44,
+      "currPrice": 37.83,
+      "gain": 3.81,
+      "isHolding": false,
+      "entryDate": "2025-06-17",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688192.XSHG",
+      "name": "迪哲医药",
+      "buyPrice": 60.45,
+      "currPrice": 62.7,
+      "gain": 3.72,
+      "isHolding": false,
+      "entryDate": "2025-05-29",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688719.XSHG",
+      "name": "爱科赛博",
+      "buyPrice": 38.23,
+      "currPrice": 39.65,
+      "gain": 3.71,
+      "isHolding": false,
+      "entryDate": "2025-06-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600486.XSHG",
+      "name": "扬农化工",
+      "buyPrice": 56.87,
+      "currPrice": 58.96,
+      "gain": 3.68,
+      "isHolding": false,
+      "entryDate": "2025-06-03",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600499.XSHG",
+      "name": "科达制造",
+      "buyPrice": 9.43,
+      "currPrice": 9.77,
+      "gain": 3.61,
+      "isHolding": false,
+      "entryDate": "2025-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "301498.XSHE",
+      "name": "乖宝宠物",
+      "buyPrice": 103.23,
+      "currPrice": 106.93,
+      "gain": 3.58,
+      "isHolding": false,
+      "entryDate": "2025-04-23",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "000070.XSHE",
+      "name": "特发信息",
+      "buyPrice": 7.01,
+      "currPrice": 7.25,
+      "gain": 3.42,
+      "isHolding": false,
+      "entryDate": "2025-06-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688519.XSHG",
+      "name": "南亚新材",
+      "buyPrice": 40.05,
+      "currPrice": 41.39,
+      "gain": 3.35,
+      "isHolding": false,
+      "entryDate": "2025-04-28",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603306.XSHG",
+      "name": "华懋科技",
+      "buyPrice": 41.65,
+      "currPrice": 43.04,
+      "gain": 3.34,
+      "isHolding": false,
+      "entryDate": "2025-05-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603727.XSHG",
+      "name": "博迈科",
+      "buyPrice": 14.69,
+      "currPrice": 15.18,
+      "gain": 3.34,
+      "isHolding": false,
+      "entryDate": "2025-06-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603083.XSHG",
+      "name": "剑桥科技",
+      "buyPrice": 45.8,
+      "currPrice": 47.28,
+      "gain": 3.23,
+      "isHolding": false,
+      "entryDate": "2025-06-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603444.XSHG",
+      "name": "吉比特",
+      "buyPrice": 269.9,
+      "currPrice": 278.6,
+      "gain": 3.22,
+      "isHolding": false,
+      "entryDate": "2025-06-03",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002683.XSHE",
+      "name": "广东宏大",
+      "buyPrice": 31.9,
+      "currPrice": 32.68,
+      "gain": 2.45,
+      "isHolding": false,
+      "entryDate": "2025-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "600350.XSHG",
+      "name": "山东高速",
+      "buyPrice": 10.76,
+      "currPrice": 11.01,
+      "gain": 2.32,
+      "isHolding": false,
+      "entryDate": "2025-04-29",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603988.XSHG",
+      "name": "中电电机",
+      "buyPrice": 25.56,
+      "currPrice": 26.15,
+      "gain": 2.31,
+      "isHolding": false,
+      "entryDate": "2025-06-13",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603091.XSHG",
+      "name": "众鑫股份",
+      "buyPrice": 55.81,
+      "currPrice": 57.05,
+      "gain": 2.22,
+      "isHolding": false,
+      "entryDate": "2025-06-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603379.XSHG",
+      "name": "三美股份",
+      "buyPrice": 44.5,
+      "currPrice": 45.45,
+      "gain": 2.13,
+      "isHolding": false,
+      "entryDate": "2025-04-29",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600900.XSHG",
+      "name": "长江电力",
+      "buyPrice": 30.08,
+      "currPrice": 30.71,
+      "gain": 2.09,
+      "isHolding": false,
+      "entryDate": "2025-05-14",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:创业板,科创50破MA20"
+    },
+    {
+      "code": "002174.XSHE",
+      "name": "游族网络",
+      "buyPrice": 11.71,
+      "currPrice": 11.95,
+      "gain": 2.05,
+      "isHolding": false,
+      "entryDate": "2025-05-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "300958.XSHE",
+      "name": "建工修复",
+      "buyPrice": 12.72,
+      "currPrice": 12.97,
+      "gain": 1.97,
+      "isHolding": false,
+      "entryDate": "2025-06-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002624.XSHE",
+      "name": "完美世界",
+      "buyPrice": 14.59,
+      "currPrice": 14.85,
+      "gain": 1.78,
+      "isHolding": false,
+      "entryDate": "2025-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "600059.XSHG",
+      "name": "古越龙山",
+      "buyPrice": 10.31,
+      "currPrice": 10.48,
+      "gain": 1.65,
+      "isHolding": false,
+      "entryDate": "2025-05-23",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600673.XSHG",
+      "name": "东阳光",
+      "buyPrice": 11.25,
+      "currPrice": 11.43,
+      "gain": 1.6,
+      "isHolding": true,
+      "entryDate": "2025-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600875.XSHG",
+      "name": "东方电气",
+      "buyPrice": 16.14,
+      "currPrice": 16.36,
+      "gain": 1.36,
+      "isHolding": false,
+      "entryDate": "2025-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "600036.XSHG",
+      "name": "招商银行",
+      "buyPrice": 45.75,
+      "currPrice": 46.27,
+      "gain": 1.14,
+      "isHolding": false,
+      "entryDate": "2025-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "300943.XSHE",
+      "name": "春晖智控",
+      "buyPrice": 14.65,
+      "currPrice": 14.78,
+      "gain": 0.89,
+      "isHolding": false,
+      "entryDate": "2025-06-11",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "601033.XSHG",
+      "name": "永兴股份",
+      "buyPrice": 15.84,
+      "currPrice": 15.96,
+      "gain": 0.76,
+      "isHolding": false,
+      "entryDate": "2025-05-20",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "301338.XSHE",
+      "name": "凯格精机",
+      "buyPrice": 40.93,
+      "currPrice": 41.24,
+      "gain": 0.76,
+      "isHolding": false,
+      "entryDate": "2025-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600160.XSHG",
+      "name": "巨化股份",
+      "buyPrice": 27.04,
+      "currPrice": 27.2,
+      "gain": 0.59,
+      "isHolding": false,
+      "entryDate": "2025-06-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600547.XSHG",
+      "name": "山东黄金",
+      "buyPrice": 31.84,
+      "currPrice": 31.98,
+      "gain": 0.44,
+      "isHolding": false,
+      "entryDate": "2025-06-13",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002539.XSHE",
+      "name": "云图控股",
+      "buyPrice": 8.95,
+      "currPrice": 8.97,
+      "gain": 0.22,
+      "isHolding": false,
+      "entryDate": "2025-06-11",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002014.XSHE",
+      "name": "永新股份",
+      "buyPrice": 11.88,
+      "currPrice": 11.86,
+      "gain": -0.17,
+      "isHolding": false,
+      "entryDate": "2025-05-23",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002838.XSHE",
+      "name": "道恩股份",
+      "buyPrice": 17.2,
+      "currPrice": 17.16,
+      "gain": -0.23,
+      "isHolding": false,
+      "entryDate": "2025-05-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "301377.XSHE",
+      "name": "鼎泰高科",
+      "buyPrice": 30.76,
+      "currPrice": 30.67,
+      "gain": -0.29,
+      "isHolding": false,
+      "entryDate": "2025-06-05",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "300065.XSHE",
+      "name": "海兰信",
+      "buyPrice": 16.32,
+      "currPrice": 16.25,
+      "gain": -0.43,
+      "isHolding": false,
+      "entryDate": "2025-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "300973.XSHE",
+      "name": "立高食品",
+      "buyPrice": 47.53,
+      "currPrice": 47.3,
+      "gain": -0.48,
+      "isHolding": false,
+      "entryDate": "2025-05-15",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002658.XSHE",
+      "name": "雪迪龙",
+      "buyPrice": 7.03,
+      "currPrice": 6.98,
+      "gain": -0.71,
+      "isHolding": false,
+      "entryDate": "2025-05-19",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "000426.XSHE",
+      "name": "兴业银锡",
+      "buyPrice": 15.4,
+      "currPrice": 15.26,
+      "gain": -0.91,
+      "isHolding": false,
+      "entryDate": "2025-06-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688002.XSHG",
+      "name": "睿创微纳",
+      "buyPrice": 63.85,
+      "currPrice": 63.26,
+      "gain": -0.92,
+      "isHolding": false,
+      "entryDate": "2025-06-05",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002690.XSHE",
+      "name": "美亚光电",
+      "buyPrice": 17.05,
+      "currPrice": 16.88,
+      "gain": -1.0,
+      "isHolding": false,
+      "entryDate": "2025-05-19",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688776.XSHG",
+      "name": "国光电气",
+      "buyPrice": 97.22,
+      "currPrice": 96.23,
+      "gain": -1.02,
+      "isHolding": false,
+      "entryDate": "2025-05-13",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "601601.XSHG",
+      "name": "中国太保",
+      "buyPrice": 36.49,
+      "currPrice": 35.96,
+      "gain": -1.45,
+      "isHolding": false,
+      "entryDate": "2025-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002545.XSHE",
+      "name": "东方铁塔",
+      "buyPrice": 8.74,
+      "currPrice": 8.61,
+      "gain": -1.49,
+      "isHolding": false,
+      "entryDate": "2025-06-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600276.XSHG",
+      "name": "恒瑞医药",
+      "buyPrice": 52.79,
+      "currPrice": 51.91,
+      "gain": -1.67,
+      "isHolding": false,
+      "entryDate": "2025-05-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688266.XSHG",
+      "name": "泽璟制药",
+      "buyPrice": 115.5,
+      "currPrice": 113.53,
+      "gain": -1.71,
+      "isHolding": false,
+      "entryDate": "2025-06-03",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603969.XSHG",
+      "name": "银龙股份",
+      "buyPrice": 6.92,
+      "currPrice": 6.79,
+      "gain": -1.88,
+      "isHolding": false,
+      "entryDate": "2025-05-15",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688578.XSHG",
+      "name": "艾力斯",
+      "buyPrice": 95.6,
+      "currPrice": 93.73,
+      "gain": -1.96,
+      "isHolding": false,
+      "entryDate": "2025-05-29",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "301155.XSHE",
+      "name": "海力风电",
+      "buyPrice": 71.24,
+      "currPrice": 69.6,
+      "gain": -2.3,
+      "isHolding": false,
+      "entryDate": "2025-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600489.XSHG",
+      "name": "中金黄金",
+      "buyPrice": 14.66,
+      "currPrice": 14.32,
+      "gain": -2.32,
+      "isHolding": false,
+      "entryDate": "2025-06-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600323.XSHG",
+      "name": "瀚蓝环境",
+      "buyPrice": 25.17,
+      "currPrice": 24.58,
+      "gain": -2.34,
+      "isHolding": false,
+      "entryDate": "2025-05-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600866.XSHG",
+      "name": "星湖科技",
+      "buyPrice": 7.1,
+      "currPrice": 6.93,
+      "gain": -2.39,
+      "isHolding": false,
+      "entryDate": "2025-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "600096.XSHG",
+      "name": "云天化",
+      "buyPrice": 22.8,
+      "currPrice": 22.23,
+      "gain": -2.5,
+      "isHolding": false,
+      "entryDate": "2025-06-13",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002946.XSHE",
+      "name": "新乳业",
+      "buyPrice": 18.54,
+      "currPrice": 18.04,
+      "gain": -2.7,
+      "isHolding": false,
+      "entryDate": "2025-05-19",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600183.XSHG",
+      "name": "生益科技",
+      "buyPrice": 29.69,
+      "currPrice": 28.88,
+      "gain": -2.73,
+      "isHolding": false,
+      "entryDate": "2025-06-18",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603308.XSHG",
+      "name": "应流股份",
+      "buyPrice": 22.21,
+      "currPrice": 21.6,
+      "gain": -2.75,
+      "isHolding": false,
+      "entryDate": "2025-06-10",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "001328.XSHE",
+      "name": "登康口腔",
+      "buyPrice": 49.64,
+      "currPrice": 48.23,
+      "gain": -2.84,
+      "isHolding": false,
+      "entryDate": "2025-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "301393.XSHE",
+      "name": "昊帆生物",
+      "buyPrice": 52.16,
+      "currPrice": 50.64,
+      "gain": -2.91,
+      "isHolding": false,
+      "entryDate": "2025-05-20",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "000657.XSHE",
+      "name": "中钨高新",
+      "buyPrice": 11.98,
+      "currPrice": 11.63,
+      "gain": -2.92,
+      "isHolding": false,
+      "entryDate": "2025-06-04",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002768.XSHE",
+      "name": "国恩股份",
+      "buyPrice": 25.96,
+      "currPrice": 25.12,
+      "gain": -3.24,
+      "isHolding": false,
+      "entryDate": "2025-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "002318.XSHE",
+      "name": "久立特材",
+      "buyPrice": 24.14,
+      "currPrice": 23.34,
+      "gain": -3.31,
+      "isHolding": false,
+      "entryDate": "2025-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "688506.XSHG",
+      "name": "百利天恒",
+      "buyPrice": 305.32,
+      "currPrice": 295.01,
+      "gain": -3.38,
+      "isHolding": false,
+      "entryDate": "2025-04-22",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "688623.XSHG",
+      "name": "双元科技",
+      "buyPrice": 64.6,
+      "currPrice": 62.38,
+      "gain": -3.44,
+      "isHolding": false,
+      "entryDate": "2025-05-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002488.XSHE",
+      "name": "金固股份",
+      "buyPrice": 14.27,
+      "currPrice": 13.75,
+      "gain": -3.64,
+      "isHolding": false,
+      "entryDate": "2025-05-07",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "688531.XSHG",
+      "name": "日联科技",
+      "buyPrice": 71.58,
+      "currPrice": 68.97,
+      "gain": -3.65,
+      "isHolding": false,
+      "entryDate": "2025-04-25",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "000831.XSHE",
+      "name": "中国稀土",
+      "buyPrice": 35.66,
+      "currPrice": 34.24,
+      "gain": -3.98,
+      "isHolding": false,
+      "entryDate": "2025-06-04",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600941.XSHG",
+      "name": "中国移动",
+      "buyPrice": 117.52,
+      "currPrice": 112.76,
+      "gain": -4.05,
+      "isHolding": false,
+      "entryDate": "2025-06-03",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "000729.XSHE",
+      "name": "燕京啤酒",
+      "buyPrice": 13.4,
+      "currPrice": 12.85,
+      "gain": -4.1,
+      "isHolding": false,
+      "entryDate": "2025-05-20",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600352.XSHG",
+      "name": "浙江龙盛",
+      "buyPrice": 10.59,
+      "currPrice": 10.15,
+      "gain": -4.15,
+      "isHolding": false,
+      "entryDate": "2025-06-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "301080.XSHE",
+      "name": "百普赛斯",
+      "buyPrice": 55.21,
+      "currPrice": 52.9,
+      "gain": -4.18,
+      "isHolding": false,
+      "entryDate": "2025-06-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "300850.XSHE",
+      "name": "新强联",
+      "buyPrice": 35.11,
+      "currPrice": 33.63,
+      "gain": -4.22,
+      "isHolding": false,
+      "entryDate": "2025-06-16",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "301108.XSHE",
+      "name": "洁雅股份",
+      "buyPrice": 33.91,
+      "currPrice": 32.42,
+      "gain": -4.39,
+      "isHolding": false,
+      "entryDate": "2025-05-15",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "601899.XSHG",
+      "name": "紫金矿业",
+      "buyPrice": 19.44,
+      "currPrice": 18.57,
+      "gain": -4.48,
+      "isHolding": false,
+      "entryDate": "2025-06-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600741.XSHG",
+      "name": "华域汽车",
+      "buyPrice": 18.56,
+      "currPrice": 17.72,
+      "gain": -4.53,
+      "isHolding": false,
+      "entryDate": "2025-05-14",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:创业板,科创50破MA20"
+    },
+    {
+      "code": "002609.XSHE",
+      "name": "捷顺科技",
+      "buyPrice": 10.87,
+      "currPrice": 10.37,
+      "gain": -4.6,
+      "isHolding": false,
+      "entryDate": "2025-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "600392.XSHG",
+      "name": "盛和资源",
+      "buyPrice": 13.6,
+      "currPrice": 12.97,
+      "gain": -4.63,
+      "isHolding": false,
+      "entryDate": "2025-06-11",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002749.XSHE",
+      "name": "国光股份",
+      "buyPrice": 15.22,
+      "currPrice": 14.5,
+      "gain": -4.73,
+      "isHolding": false,
+      "entryDate": "2025-06-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688636.XSHG",
+      "name": "智明达",
+      "buyPrice": 29.79,
+      "currPrice": 28.37,
+      "gain": -4.77,
+      "isHolding": false,
+      "entryDate": "2025-06-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "301216.XSHE",
+      "name": "万凯新材",
+      "buyPrice": 13.18,
+      "currPrice": 12.55,
+      "gain": -4.78,
+      "isHolding": false,
+      "entryDate": "2025-04-29",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:上证,深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002517.XSHE",
+      "name": "恺英网络",
+      "buyPrice": 17.62,
+      "currPrice": 16.75,
+      "gain": -4.94,
+      "isHolding": false,
+      "entryDate": "2025-06-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "000963.XSHE",
+      "name": "华东医药",
+      "buyPrice": 42.05,
+      "currPrice": 39.93,
+      "gain": -5.04,
+      "isHolding": false,
+      "entryDate": "2025-05-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "300731.XSHE",
+      "name": "科创新源",
+      "buyPrice": 27.86,
+      "currPrice": 26.38,
+      "gain": -5.31,
+      "isHolding": false,
+      "entryDate": "2025-06-05",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002001.XSHE",
+      "name": "新和成",
+      "buyPrice": 22.79,
+      "currPrice": 21.57,
+      "gain": -5.35,
+      "isHolding": false,
+      "entryDate": "2025-05-15",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "600757.XSHG",
+      "name": "长江传媒",
+      "buyPrice": 9.71,
+      "currPrice": 9.19,
+      "gain": -5.36,
+      "isHolding": false,
+      "entryDate": "2025-05-06",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板破MA20"
+    },
+    {
+      "code": "600111.XSHG",
+      "name": "北方稀土",
+      "buyPrice": 25.51,
+      "currPrice": 24.09,
+      "gain": -5.57,
+      "isHolding": false,
+      "entryDate": "2025-06-11",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688103.XSHG",
+      "name": "国力电子",
+      "buyPrice": 60.46,
+      "currPrice": 56.87,
+      "gain": -5.94,
+      "isHolding": false,
+      "entryDate": "2025-06-09",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "300816.XSHE",
+      "name": "艾可蓝",
+      "buyPrice": 35.6,
+      "currPrice": 33.47,
+      "gain": -5.98,
+      "isHolding": false,
+      "entryDate": "2025-06-18",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002714.XSHE",
+      "name": "牧原股份",
+      "buyPrice": 44.39,
+      "currPrice": 41.68,
+      "gain": -6.1,
+      "isHolding": false,
+      "entryDate": "2025-06-11",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603181.XSHG",
+      "name": "皇马科技",
+      "buyPrice": 12.6,
+      "currPrice": 11.82,
+      "gain": -6.19,
+      "isHolding": false,
+      "entryDate": "2025-05-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688196.XSHG",
+      "name": "卓越新能",
+      "buyPrice": 47.44,
+      "currPrice": 44.46,
+      "gain": -6.28,
+      "isHolding": false,
+      "entryDate": "2025-06-13",
+      "mktAtEntry": "[⚠️短线拉锯震荡 / 黄灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "002237.XSHE",
+      "name": "恒邦股份",
+      "buyPrice": 12.49,
+      "currPrice": 11.7,
+      "gain": -6.33,
+      "isHolding": false,
+      "entryDate": "2025-06-12",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "000429.XSHE",
+      "name": "粤高速A",
+      "buyPrice": 14.58,
+      "currPrice": 13.64,
+      "gain": -6.45,
+      "isHolding": false,
+      "entryDate": "2025-05-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "688311.XSHG",
+      "name": "盟升电子",
+      "buyPrice": 41.38,
+      "currPrice": 38.56,
+      "gain": -6.81,
+      "isHolding": false,
+      "entryDate": "2025-06-10",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
+    },
+    {
+      "code": "603766.XSHG",
+      "name": "隆鑫通用",
+      "buyPrice": 12.76,
+      "currPrice": 11.84,
+      "gain": -7.21,
+      "isHolding": false,
+      "entryDate": "2025-04-21",
+      "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:上证,深证,创业板破MA20"
+    },
+    {
+      "code": "002588.XSHE",
+      "name": "史丹利",
+      "buyPrice": 9.38,
+      "currPrice": 8.68,
+      "gain": -7.46,
+      "isHolding": false,
+      "entryDate": "2025-06-12",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     }
   ],
