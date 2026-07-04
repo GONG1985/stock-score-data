@@ -1,19 +1,19 @@
 {
-  "snapshotDate": "2026-02-12",
-  "updatedAt": "2026-07-04T20:31:42",
+  "snapshotDate": "2026-02-13",
+  "updatedAt": "2026-07-04T20:32:08",
   "pushTime": "14:35",
   "data": [],
-  "shIdx": 4132.7,
-  "shChg": 0.02,
-  "szIdx": 14276.53,
-  "szChg": 0.82,
-  "cybIdx": 3326.3,
-  "cybChg": 1.27,
-  "kcbIdx": 1477.0,
-  "kcbChg": 1.5,
-  "hs300": 4715.53,
-  "hsChg": 0.04,
-  "marketStatus": "[🔥强势多头共振浪 / 绿灯]",
+  "shIdx": 4110.32,
+  "shChg": -0.57,
+  "szIdx": 14201.24,
+  "szChg": -0.57,
+  "cybIdx": 3299.93,
+  "cybChg": -0.85,
+  "kcbIdx": 1482.24,
+  "kcbChg": 0.08,
+  "hs300": 4689.06,
+  "hsChg": -0.65,
+  "marketStatus": "[🚨绝对空头阴跌 / 红灯]",
   "poolAudit": [
     {
       "code": "002422.XSHE",
@@ -5771,7 +5771,7 @@
       "buyPrice": 24.77,
       "currPrice": 42.08,
       "gain": 69.88,
-      "isHolding": true,
+      "isHolding": false,
       "entryDate": "2025-10-27",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
@@ -6151,7 +6151,7 @@
       "buyPrice": 13.45,
       "currPrice": 21.03,
       "gain": 56.36,
-      "isHolding": true,
+      "isHolding": false,
       "entryDate": "2025-12-19",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
@@ -6391,7 +6391,7 @@
       "buyPrice": 20.3,
       "currPrice": 29.84,
       "gain": 47.0,
-      "isHolding": true,
+      "isHolding": false,
       "entryDate": "2025-10-24",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
@@ -6451,7 +6451,7 @@
       "buyPrice": 3.51,
       "currPrice": 5.1,
       "gain": 45.3,
-      "isHolding": true,
+      "isHolding": false,
       "entryDate": "2025-12-29",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
@@ -8611,7 +8611,7 @@
       "buyPrice": 29.85,
       "currPrice": 31.86,
       "gain": 6.73,
-      "isHolding": true,
+      "isHolding": false,
       "entryDate": "2025-06-24",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
@@ -8901,7 +8901,7 @@
       "buyPrice": 184.51,
       "currPrice": 189.66,
       "gain": 2.79,
-      "isHolding": true,
+      "isHolding": false,
       "entryDate": "2026-02-09",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
@@ -9121,7 +9121,7 @@
       "buyPrice": 46.0,
       "currPrice": 46.07,
       "gain": 0.15,
-      "isHolding": true,
+      "isHolding": false,
       "entryDate": "2025-05-12",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯] ⚠️周线预警:深证,创业板,科创50破MA20"
     },
@@ -9191,7 +9191,7 @@
       "buyPrice": 21.6,
       "currPrice": 21.35,
       "gain": -1.16,
-      "isHolding": true,
+      "isHolding": false,
       "entryDate": "2026-02-09",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
@@ -9381,7 +9381,7 @@
       "buyPrice": 5.36,
       "currPrice": 5.13,
       "gain": -4.29,
-      "isHolding": true,
+      "isHolding": false,
       "entryDate": "2026-02-09",
       "mktAtEntry": "[🔥强势多头共振浪 / 绿灯]"
     },
