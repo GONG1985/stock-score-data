@@ -5,7 +5,10 @@
       "username": "admin",
       "password": "fengxun2026",
       "role": "admin",
-      "active": true
+      "active": true,
+      "loginCount": 1,
+      "lastLogin": "2026-08-09T12:42:00.260Z",
+      "totalDurationMinutes": 0
     }
   ],
   "updatedAt": "2026-08-09T06:52:57.043Z",
