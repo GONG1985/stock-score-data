@@ -1,0 +1,13 @@
+{
+  "expireDate": "2026-12-31",
+  "users": [
+    {
+      "username": "admin",
+      "password": "fengxun2026",
+      "role": "admin",
+      "active": true
+    }
+  ],
+  "updatedAt": "2026-08-09T06:25:10.590Z",
+  "updatedBy": "admin"
+}
