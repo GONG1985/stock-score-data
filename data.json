@@ -1,7 +1,7 @@
 {
-  "snapshotDate": "2026-06-02",
-  "updatedAt": "2026-06-02T14:35:00",
-  "pushTime": "14:35",
+  "snapshotDate": "2026-06-04",
+  "updatedAt": "2026-06-04T11:15:00",
+  "pushTime": "11:15",
   "data": [
     {
       "rank": 1,
@@ -200,16 +200,16 @@
       }
     }
   ],
-  "shIdx": 4076.01,
-  "shChg": 0.45,
-  "szIdx": 15596.92,
-  "szChg": 1.67,
-  "cybIdx": 4058.79,
-  "cybChg": 2.73,
-  "kcbIdx": 1691.37,
-  "kcbChg": 1.66,
-  "hs300": 4916.89,
-  "hsChg": 1.5,
+  "shIdx": 4067.26,
+  "shChg": -0.41,
+  "szIdx": 15657.12,
+  "szChg": -0.3,
+  "cybIdx": 4087.14,
+  "cybChg": -0.87,
+  "kcbIdx": 1740.95,
+  "kcbChg": 0.86,
+  "hs300": 4914.72,
+  "hsChg": -0.49,
   "marketStatus": "[🚨绝对空头阴跌 / 红灯]",
   "poolAudit": [
     {
