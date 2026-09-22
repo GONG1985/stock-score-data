@@ -16,8 +16,15 @@
       "role": "viewer",
       "active": true,
       "expireDate": "2026-10-21"
+    },
+    {
+      "username": "zheng101",
+      "password": "ABC123",
+      "role": "viewer",
+      "active": true,
+      "expireDate": "2026-10-07"
     }
   ],
-  "updatedAt": "2026-09-21T08:31:12.505Z",
+  "updatedAt": "2026-09-22T11:35:24.390Z",
   "updatedBy": "admin"
 }
