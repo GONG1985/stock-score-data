@@ -23,8 +23,15 @@
       "role": "viewer",
       "active": true,
       "expireDate": "2026-10-07"
+    },
+    {
+      "username": "wangdong1",
+      "password": "ABC123",
+      "role": "viewer",
+      "active": true,
+      "expireDate": "2026-10-23"
     }
   ],
-  "updatedAt": "2026-09-23T02:59:55.843Z",
+  "updatedAt": "2026-09-23T03:00:18.993Z",
   "updatedBy": "admin"
 }
