@@ -1,5 +1,5 @@
 {
-  "expireDate": "2026-12-31",
+  "expireDate": "2027-01-31",
   "users": [
     {
       "username": "admin",
@@ -25,6 +25,6 @@
       "expireDate": "2026-10-07"
     }
   ],
-  "updatedAt": "2026-09-22T11:35:24.390Z",
+  "updatedAt": "2026-09-23T01:08:12.581Z",
   "updatedBy": "admin"
 }
